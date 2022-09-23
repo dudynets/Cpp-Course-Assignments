@@ -1,3 +1,6 @@
+## Ignore C++ temporary files and executables
+##
+## Get latest from https://github.com/github/gitignore/blob/master/C%2B%2B.gitignore
 
 # Prerequisites
 *.d
