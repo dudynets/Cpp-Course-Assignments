@@ -18,11 +18,11 @@
 
 | Project name | Due date | Description | Directory | 
 | :--- | :--- | :--- | :--- |
-| Homework_007 | 05.10.2022 | Check if provided time is valid. | [Link](https://github.com/dudynets/Programming-2022/tree/main/homeworks/Homework_007) |
-| Homework_006 | 05.10.2022 | Get sum of the digits of a number. | [Link](https://github.com/dudynets/Programming-2022/tree/main/homeworks/Homework_006) |
-| Homework_005 | 05.10.2022 | Get HTTP code description from code. | [Link](https://github.com/dudynets/Programming-2022/tree/main/homeworks/Homework_005) |
-| Homework_004 | 05.10.2022 | Get month name from given month index. | [Link](https://github.com/dudynets/Programming-2022/tree/main/homeworks/Homework_004) |
-| Homework_003 | 05.10.2022 | Get Zodiac sign from given day and month. | [Link](https://github.com/dudynets/Programming-2022/tree/main/homeworks/Homework_003) |
+| Homework_007 | 05.10.2022 | Check if provided time is valid. (№19) | [Link](https://github.com/dudynets/Programming-2022/tree/main/homeworks/Homework_007) |
+| Homework_006 | 05.10.2022 | Get sum of the digits of a number. (№18) | [Link](https://github.com/dudynets/Programming-2022/tree/main/homeworks/Homework_006) |
+| Homework_005 | 05.10.2022 | Get HTTP code description from code. (№16) | [Link](https://github.com/dudynets/Programming-2022/tree/main/homeworks/Homework_005) |
+| Homework_004 | 05.10.2022 | Get month name from given month index. (№15) | [Link](https://github.com/dudynets/Programming-2022/tree/main/homeworks/Homework_004) |
+| Homework_003 | 05.10.2022 | Get Zodiac sign from given day and month. (№13) | [Link](https://github.com/dudynets/Programming-2022/tree/main/homeworks/Homework_003) |
 | Homework_002 | 28.09.2022 | Calculate arithmetic and geometric means of two numbers. | [Link](https://github.com/dudynets/Programming-2022/tree/main/homeworks/Homework_002) |
 | Homework_001 | 28.09.2022 | Calculate circumference of circle, area of circle, and volume of sphere. | [Link](https://github.com/dudynets/Programming-2022/tree/main/homeworks/Homework_001) |
 
