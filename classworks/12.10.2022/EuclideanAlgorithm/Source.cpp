@@ -24,7 +24,7 @@ int main()
         return -1;
     }
 
-    // calculate GCD
+    // calculate the greatest common divisor
     while (n != m)
     {
         if (n > m)
