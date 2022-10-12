@@ -30,11 +30,11 @@
 
 | Project name | Date | Description | Directory | 
 | :--- | :--- | :--- | :--- |
-| Homework_006 | 12.10.2022 | Calculate the greatest common divisor. (№5) | [Link](https://github.com/dudynets/Programming-2022/tree/main/classworks/12.10.2022/EuclidianAlgorithm) |
-| Homework_005 | 12.10.2022 | Reverse a number provided by user. (№4) | [Link](https://github.com/dudynets/Programming-2022/tree/main/classworks/12.10.2022/ReverseNumber) |
-| Homework_004 | 12.10.2022 | Calculate the first 100 Fibonacci numbers. (№3) | [Link](https://github.com/dudynets/Programming-2022/tree/main/classworks/12.10.2022/FibonacciNumbers) |
-| Homework_003 | 12.10.2022 | Get the biggest "k" number that matches inequality. (№2) | [Link](https://github.com/dudynets/Programming-2022/tree/main/classworks/12.10.2022/Inequality) |
-| Homework_002 | 12.10.2022 | Calculate arithmetic and geometric means of two numbers. (№1) | [Link](https://github.com/dudynets/Programming-2022/tree/main/classworks/12.10.2022/TemperatureConversion) |
+| EuclideanAlgorithm | 12.10.2022 | Calculate the greatest common divisor. (№5) | [Link](https://github.com/dudynets/Programming-2022/tree/main/classworks/12.10.2022/EuclideanAlgorithm) |
+| ReverseNumber | 12.10.2022 | Reverse a number provided by user. (№4) | [Link](https://github.com/dudynets/Programming-2022/tree/main/classworks/12.10.2022/ReverseNumber) |
+| FibonacciNumbers | 12.10.2022 | Calculate the first 100 Fibonacci numbers. (№3) | [Link](https://github.com/dudynets/Programming-2022/tree/main/classworks/12.10.2022/FibonacciNumbers) |
+| Inequality | 12.10.2022 | Get the biggest "k" number that matches inequality. (№2) | [Link](https://github.com/dudynets/Programming-2022/tree/main/classworks/12.10.2022/Inequality) |
+| TemperatureConversion | 12.10.2022 | Calculate arithmetic and geometric means of two numbers. (№1) | [Link](https://github.com/dudynets/Programming-2022/tree/main/classworks/12.10.2022/TemperatureConversion) |
 | LoopsPractice | 05.10.2022 | Calculate number of words in a string. | [Link](https://github.com/dudynets/Programming-2022/tree/main/classworks/05.10.2022/LoopsPractice) |
 
 ## License
