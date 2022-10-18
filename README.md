@@ -18,6 +18,7 @@
 
 | Project name | Due date | Description | Directory | 
 | :--- | :--- | :--- | :--- |
+| Homework_009 | 19.10.2022 | Get a closest to the whole number from a sequence. (2B) | [Link](https://github.com/dudynets/Programming-2022/tree/main/homeworks/Homework_009) |
 | Homework_008 | 19.10.2022 | Get a sequence. (2A) | [Link](https://github.com/dudynets/Programming-2022/tree/main/homeworks/Homework_008) |
 | Homework_007 | 05.10.2022 | Check if provided time is valid. (№19) | [Link](https://github.com/dudynets/Programming-2022/tree/main/homeworks/Homework_007) |
 | Homework_006 | 05.10.2022 | Get sum of the digits of a number. (№18) | [Link](https://github.com/dudynets/Programming-2022/tree/main/homeworks/Homework_006) |
