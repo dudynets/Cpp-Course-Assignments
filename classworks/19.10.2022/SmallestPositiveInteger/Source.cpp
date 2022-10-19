@@ -50,7 +50,6 @@ int main()
     } else
     {
         cout << endl << "The smallest positive integer is " << smallestPositiveInteger << endl;
-
     }
 
     return 0;
