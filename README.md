@@ -32,6 +32,7 @@
 
 | Project name | Date | Description | Directory | 
 | :--- | :--- | :--- | :--- |
+| Matrix | 22.10.2022 | Different operations with matrices. | [Link](https://github.com/dudynets/Programming-2022/tree/main/classworks/22.10.2022/Matrix) |
 | EuclideanAlgorithm | 12.10.2022 | Calculate the greatest common divisor. (№5) | [Link](https://github.com/dudynets/Programming-2022/tree/main/classworks/12.10.2022/EuclideanAlgorithm) |
 | ReverseNumber | 12.10.2022 | Reverse a number provided by user. (№4) | [Link](https://github.com/dudynets/Programming-2022/tree/main/classworks/12.10.2022/ReverseNumber) |
 | FibonacciNumbers | 12.10.2022 | Calculate the first 100 Fibonacci numbers. (№3) | [Link](https://github.com/dudynets/Programming-2022/tree/main/classworks/12.10.2022/FibonacciNumbers) |
