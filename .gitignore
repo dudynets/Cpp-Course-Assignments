@@ -438,5 +438,8 @@ FodyWeavers.xsd
 # MacOS
 .DS_Store
 
-#Xcode
+# Xcode
 *.dSYM
+
+# Extra
+enc_temp_folder/
