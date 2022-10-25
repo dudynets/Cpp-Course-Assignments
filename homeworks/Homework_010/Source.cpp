@@ -8,7 +8,7 @@ const double E_PRECISION = 0.00001;
 // declare functions
 double getS(int x);
 double getY(int x);
-int getFactorial(int n);
+long long getFactorial(int n);
 double getPercentageError(double approximate, double exact);
 
 int main()
@@ -57,17 +57,17 @@ int main()
 double getS(int x)
 {
     // declare variables
-    double prevS = 0;
-    double lastS = 0;
-    int k = 0;
+    long double prevS = 0;
+    long double lastS = 0;
+    long long k = 0;
 
     // iterate until the difference between the current and previous value of S is less than the precision
     do
     {
         prevS = lastS;
-        lastS += pow(x, k + 2) / (getFactorial(k) * (k + 2));
+        lastS += (pow(x, (k + 2))) / (getFactorial(k) * (k + 2));
         k++;
-    } while (lastS - prevS > E_PRECISION);
+    } while (fabs(lastS - prevS) > E_PRECISION && k < 20); // 20 is the maximum number of iterations because the factorial of 20 is the largest factorial that can be stored in a long long
 
     return lastS;
 }
@@ -79,9 +79,9 @@ double getY(int x)
 }
 
 // function that gets the factorial of a number
-int getFactorial(int n)
+long long getFactorial(int n)
 {
-    int result = 1;
+    long long result = 1;
     for (int i = 1; i <= n; i++)
     {
         result *= i;
