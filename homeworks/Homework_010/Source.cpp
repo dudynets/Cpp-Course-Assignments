@@ -59,7 +59,7 @@ double getS(int x)
     // declare variables
     long double prevS = 0;
     long double lastS = 0;
-    long long k = 0;
+    int k = 0;
 
     // iterate until the difference between the current and previous value of S is less than the precision
     do
