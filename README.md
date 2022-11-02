@@ -34,6 +34,7 @@
 
 | Project name | Date | Description | Directory | 
 | :--- | :--- | :--- | :--- |
+| MergeArrays | 02.11.2022 | Merge two sorted arrays into one. | [Link](https://github.com/dudynets/Programming-2022/tree/main/classworks/02.11.2022/MergeArrays) |
 | Matrix | 22.10.2022 | Different operations with matrices. | [Link](https://github.com/dudynets/Programming-2022/tree/main/classworks/22.10.2022/Matrix) |
 | EuclideanAlgorithm | 12.10.2022 | Calculate the greatest common divisor. (№5) | [Link](https://github.com/dudynets/Programming-2022/tree/main/classworks/12.10.2022/EuclideanAlgorithm) |
 | ReverseNumber | 12.10.2022 | Reverse a number provided by user. (№4) | [Link](https://github.com/dudynets/Programming-2022/tree/main/classworks/12.10.2022/ReverseNumber) |
