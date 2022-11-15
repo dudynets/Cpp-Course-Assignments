@@ -18,6 +18,7 @@
 
 | Project name | Due date | Description | Directory | 
 | :--- | :--- | :--- | :--- |
+| Homework_013 | 16.11.2022 | Get a 2D matrix from user and sort its rows by their sum. (№2) | [Link](https://github.com/dudynets/Programming-2022/tree/main/homeworks/Homework_013) |
 | Homework_012 | 16.11.2022 | Get an array of numbers from user and bubble sort them. (№2) | [Link](https://github.com/dudynets/Programming-2022/tree/main/homeworks/Homework_012) |
 | Homework_011 | 02.11.2022 | Get all possible combinations of triangles and output areas of valid ones. (№2) | [Link](https://github.com/dudynets/Programming-2022/tree/main/homeworks/Homework_011) |
 | Homework_010 | 26.10.2022 | Calculation with specified accuracy. (№2) | [Link](https://github.com/dudynets/Programming-2022/tree/main/homeworks/Homework_010) |
