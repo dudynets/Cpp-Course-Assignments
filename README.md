@@ -49,3 +49,5 @@
 
 ## License
 Distributed under the [MIT](https://choosealicense.com/licenses/mit/) License. See [LICENSE](https://github.com/dudynets/Programming-2022/blob/main/LICENSE) for more information.
+
+subs to me @k.love_me  ❤️
