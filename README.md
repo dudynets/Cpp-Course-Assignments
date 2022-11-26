@@ -38,6 +38,7 @@
 
 | Project name | Date | Description | Directory | 
 | :--- | :--- | :--- | :--- |
+| Classes | 26.11.2022 | Practise classes with file input and output. | [Link](https://github.com/dudynets/Programming-2022/tree/main/classworks/26.11.2022/Classes) |
 | Classes | 23.11.2022 | Practise classes. | [Link](https://github.com/dudynets/Programming-2022/tree/main/classworks/23.11.2022/Classes) |
 | MergeArrays | 02.11.2022 | Merge two sorted arrays into one. | [Link](https://github.com/dudynets/Programming-2022/tree/main/classworks/02.11.2022/MergeArrays) |
 | Matrix | 22.10.2022 | Different operations with matrices. | [Link](https://github.com/dudynets/Programming-2022/tree/main/classworks/22.10.2022/Matrix) |
