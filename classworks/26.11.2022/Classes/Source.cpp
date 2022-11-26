@@ -1,4 +1,4 @@
-#include <iostream>
+﻿#include <iostream>
 #include <fstream>
 using namespace std;
 
@@ -8,7 +8,7 @@ struct Point
     int y;
 
     // input
-    friend istream &operator>>(istream &is, Point &point)
+    friend istream& operator>>(istream& is, Point& point)
     {
         // cout << "Enter x: " << endl;
         is >> point.x;
@@ -20,7 +20,7 @@ struct Point
     }
 
     // output
-    friend ostream &operator<<(ostream &os, Point &point)
+    friend ostream& operator<<(ostream& os, Point& point)
     {
         os << "- x = " << point.x << endl;
         os << "- y = " << point.y << endl;
@@ -38,10 +38,10 @@ private:
 public:
     Circle() : center(), radius(0) {}
     Circle(Point _center, int _radius) : center(_center), radius(_radius) {}
-    Circle(const Circle &circle) : center(circle.center), radius(circle.radius) {}
+    Circle(const Circle& circle) : center(circle.center), radius(circle.radius) {}
 
     // input
-    friend istream &operator>>(istream &is, Circle &circle)
+    friend istream& operator>>(istream& is, Circle& circle)
     {
         // cout << "Enter radius: " << endl;
         is >> circle.radius;
@@ -53,11 +53,11 @@ public:
     }
 
     // output
-    friend ostream &operator<<(ostream &os, Circle &circle)
+    friend ostream& operator<<(ostream& os, Circle& circle)
     {
         os << "radius = " << circle.radius << endl;
         os << "center:" << endl
-           << circle.center << endl;
+            << circle.center << endl;
 
         return os;
     }
