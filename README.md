@@ -18,6 +18,7 @@
 
 | Project name | Due date | Description | Directory | 
 | :--- | :--- | :--- | :--- |
+| Homework_016 | 30.11.2022 | Equation of a straight line. (№1) | [Link](https://github.com/dudynets/Programming-2022/tree/main/homeworks/Homework_016) |
 | Homework_015 | 23.11.2022 | Get HTTP error codes from user and print repeated ones (using "enum" and "struct"). (№3) | [Link](https://github.com/dudynets/Programming-2022/tree/main/homeworks/Homework_015) |
 | Homework_014 | 16.11.2022 | Get a text that contain words divided by spaces and finished with a full-stop from user and display words with uneven number of letters. (№2) | [Link](https://github.com/dudynets/Programming-2022/tree/main/homeworks/Homework_014) |
 | Homework_013 | 16.11.2022 | Get a 2D matrix from user and sort its rows by their sum. (№2) | [Link](https://github.com/dudynets/Programming-2022/tree/main/homeworks/Homework_013) |
