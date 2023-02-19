@@ -39,6 +39,7 @@
 
 | Project name | Date | Description | Directory | 
 | :--- | :--- | :--- | :--- |
+| ClassComposition | 16.02.2023 | Practise class composition. | [Link](https://github.com/dudynets/Programming-2022/tree/main/classworks/16.02.2023/ClassComposition) |
 | Classes | 26.11.2022 | Practise classes with file input and output. | [Link](https://github.com/dudynets/Programming-2022/tree/main/classworks/26.11.2022/Classes) |
 | Classes | 23.11.2022 | Practise classes. | [Link](https://github.com/dudynets/Programming-2022/tree/main/classworks/23.11.2022/Classes) |
 | MergeArrays | 02.11.2022 | Merge two sorted arrays into one. | [Link](https://github.com/dudynets/Programming-2022/tree/main/classworks/02.11.2022/MergeArrays) |
