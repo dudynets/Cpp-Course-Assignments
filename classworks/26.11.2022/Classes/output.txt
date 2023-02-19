@@ -1,5 +1,0 @@
-radius = 10
-center:
-- x = 5
-- y = 4
-
