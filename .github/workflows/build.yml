@@ -11,5 +11,9 @@ jobs:
         uses: actions/checkout@v2
       - name: Install dependencies
         run: sudo apt-get install -y g++
-      - name: Build C++ files
-        run: g++ *.cpp -o program
+      - name: Build CPP files
+        run: |
+           find . -name "*.cpp" -type f -print0 | while read -d $'\0' file
+           do
+               g++ "$file" -o "${file%.*}"
+           done
