@@ -40,3 +40,6 @@ foreach(project ${projects})
     set(executable_name "project_${project_name}")
     add_executable(${executable_name} ${project})
 endforeach()
+
+# Shared libraries
+include_directories(shared)
