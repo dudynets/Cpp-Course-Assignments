@@ -5,6 +5,7 @@
 # Programming 2022
 
 <p>
+<img src="https://img.shields.io/github/actions/workflow/status/dudynets/Programming-2022/.github/workflows/build.yml?style=flat-square" alt="GitHub workflow status">
 <img src="https://img.shields.io/github/last-commit/dudynets/Programming-2022?style=flat-square" alt="Last commit">
 <img src="https://img.shields.io/github/commit-activity/m/dudynets/Programming-2022?style=flat-square" alt="Commit activity">
 <img src="https://img.shields.io/github/repo-size/dudynets/Programming-2022?style=flat-square" alt="Repository size">
@@ -59,4 +60,6 @@
 | loops_practice            | classwork_loops_practice            | 05.10.2022 | Calculate number of words in a string.                        | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/classworks/05_10_2022/loops_practice)            |
 
 ## License
-Distributed under the [MIT](https://choosealicense.com/licenses/mit/) License. See [LICENSE](https://github.com/dudynets/Programming-2022/blob/main/LICENSE) for more information.
+
+Distributed under the [MIT](https://choosealicense.com/licenses/mit/) License.
+See [LICENSE](https://github.com/dudynets/Programming-2022/blob/main/LICENSE) for more information.
