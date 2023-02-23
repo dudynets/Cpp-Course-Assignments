@@ -60,6 +60,12 @@
 | temperature_conversion    | classwork_temperature_conversion    | 12.10.2022 | Calculate arithmetic and geometric means of two numbers. (№1) | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/classworks/12_10_2022/temperature_conversion)    |
 | loops_practice            | classwork_loops_practice            | 05.10.2022 | Calculate number of words in a string.                        | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/classworks/05_10_2022/loops_practice)            |
 
+## Tests
+
+| Project name      | Executable name        | Date       | Description             | Directory                                                                                             |
+|:------------------|:-----------------------|:-----------|:------------------------|:------------------------------------------------------------------------------------------------------|
+| class_composition | test_class_composition | 23.02.2023 | Test class composition. | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/tests/23_02_2023/class_composition) |
+
 ## License
 
 Distributed under the [MIT](https://choosealicense.com/licenses/mit/) License.
