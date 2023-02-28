@@ -27,7 +27,7 @@ class CustomStack {
 
   // Method that deletes the last element in the stack
   void pop() {
-    if (count != 0) {
+    if (!isEmpty()) {
       array[count--] = 0;
     }
   }
@@ -48,44 +48,21 @@ class CustomStack {
     }
   }
 
-  // Method that deletes the first element in the stack
-  void shift() {
-    if (count != 0) {
-      // shift all elements to the left
-      for (int i = 0; i < count; i++) {
-        array[i] = array[i + 1];
-      }
-
-      // set last element to 0
-      array[count] = 0;
-
-      // decrease count
-      count--;
-    }
+  // Method that swaps two elements in the stack
+  void swap(int index1, int index2) {
+    int temp = array[index1];
+    array[index1] = array[index2];
+    array[index2] = temp;
   }
 
-  // Method that adds a new element to the beginning of the stack
-  void unshift(int value) {
-    if (count == size) {
-      // shift all elements to the right
-      for (int i = count; i > 0; i--) {
-        array[i] = array[i - 1];
-      }
+  // Getter for top element in stack
+  int getTop() const {
+    return array[count - 1];
+  }
 
-      // add new element to the beginning
-      array[0] = value;
-    } else {
-      // shift all elements to the right
-      for (int i = count; i > 0; i--) {
-        array[i] = array[i - 1];
-      }
-
-      // add new element to the beginning
-      array[0] = value;
-
-      // increase count
-      count++;
-    }
+  // Getter that defines if stack is empty
+  bool isEmpty() const {
+    return count == 0;
   }
 
   // Getter for count
@@ -124,22 +101,6 @@ TEST_CASE("Push and pop in custom stack") {
   CHECK(array[1] == 2);
 }
 
-TEST_CASE("Unshift and shift in custom stack") {
-  CustomStack stack(5);
-
-  stack.unshift(1);
-  stack.unshift(2);
-  stack.unshift(3);
-  CHECK(stack.getCount() == 3);
-
-  stack.shift();
-  CHECK(stack.getCount() == 2);
-
-  int *array = stack.getArray();
-  CHECK(array[0] == 2);
-  CHECK(array[1] == 1);
-}
-
 TEST_CASE("Adding more elements than size to custom stack") {
   CustomStack stack(5);
 
@@ -157,6 +118,41 @@ TEST_CASE("Adding more elements than size to custom stack") {
   CHECK(array[2] == 4);
   CHECK(array[3] == 5);
   CHECK(array[4] == 6);
+}
+
+TEST_CASE("Getting top element in custom stack") {
+  CustomStack stack(5);
+
+  stack.push(1);
+  stack.push(2);
+  stack.push(3);
+  CHECK(stack.getTop() == 3);
+}
+
+TEST_CASE("Emptying custom stack") {
+  CustomStack stack(5);
+
+  stack.push(1);
+  stack.push(2);
+  stack.push(3);
+  CHECK(stack.getCount() == 3);
+
+  stack.pop();
+  stack.pop();
+  stack.pop();
+  CHECK(stack.isEmpty());
+}
+
+TEST_CASE("Swapping elements in custom stack") {
+  CustomStack stack(5);
+
+  stack.push(1);
+  stack.push(2);
+  stack.push(3);
+  CHECK(stack.getTop() == 3);
+
+  stack.swap(0, 2);
+  CHECK(stack.getTop() == 1);
 }
 
 // Test cases for STL stack
@@ -193,4 +189,23 @@ TEST_CASE("Emptying STL stack") {
   stack.pop();
   stack.pop();
   CHECK(stack.empty());
+}
+
+TEST_CASE("Swapping elements in STL stack") {
+  stack<int> stack1;
+  stack<int> stack2;
+
+  stack1.push(1);
+  stack1.push(2);
+  stack1.push(3);
+  CHECK(stack1.top() == 3);
+
+  stack2.push(4);
+  stack2.push(5);
+  stack2.push(6);
+  CHECK(stack2.top() == 6);
+
+  stack1.swap(stack2);
+  CHECK(stack1.top() == 6);
+  CHECK(stack2.top() == 3);
 }
