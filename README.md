@@ -42,6 +42,7 @@
 
 | Project name              | Executable name                     | Date       | Description                                                   | Directory                                                                                                          |
 |:--------------------------|:------------------------------------|:-----------|:--------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------|
+| class_inheritance         | classwork_class_inheritance         | 02.03.2023 | Practise class inheritance.                                   | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/classworks/02_03_2023/class_inheritance)         |
 | class_composition         | classwork_class_composition         | 16.02.2023 | Practise class composition.                                   | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/classworks/16_02_2023/class_composition)         |
 | classes2                  | classwork_classes                   | 26.11.2022 | Practise classes with file input and output.                  | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/classworks/26_11_2022/classes2)                  |
 | student                   | classwork_student                   | 23.11.2022 | Practise classes.                                             | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/classworks/23_11_2022/student)                   |
