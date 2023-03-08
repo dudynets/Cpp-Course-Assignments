@@ -1,0 +1,20 @@
+==============================
+RADIO PHONES WITH AUTO ANSWER:
+==============================
+
+Name: LG VX5200
+Manufacturer: LG
+Price: 2000 UAH
+
+Name: Motorola V60
+Manufacturer: Motorola
+Price: 1000 UAH
+
+Name: Nokia 3310
+Manufacturer: Nokia
+Price: 500 UAH
+
+Name: Nokia 1100
+Manufacturer: Nokia
+Price: 300 UAH
+

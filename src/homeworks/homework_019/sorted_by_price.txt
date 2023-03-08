@@ -1,0 +1,155 @@
+Total price: 119000 UAH
+
+=======================
+PHONES SORTED BY PRICE:
+=======================
+
+Name: Samsung Galaxy Note 20 Ultra
+Manufacturer: Samsung
+Price: 15000 UAH
+Color: bronze
+Memory: 512GB
+
+Name: iPhone 12
+Manufacturer: Apple
+Price: 12000 UAH
+Color: white
+Memory: 256GB
+
+Name: Vivo X60 Pro
+Manufacturer: Vivo
+Price: 11000 UAH
+Color: black
+Memory: 256GB
+
+Name: Oppo Find X2 Pro
+Manufacturer: Oppo
+Price: 10000 UAH
+Color: orange
+Memory: 512GB
+
+Name: Huawei P40 Pro
+Manufacturer: Huawei
+Price: 9000 UAH
+Color: silver
+Memory: 256GB
+
+Name: OnePlus 9 Pro
+Manufacturer: OnePlus
+Price: 8500 UAH
+Color: black
+Memory: 128GB
+
+Name: Google Pixel 5
+Manufacturer: Google
+Price: 8000 UAH
+Color: black
+Memory: 128GB
+
+Name: Xiaomi Mi 11
+Manufacturer: Xiaomi
+Price: 7000 UAH
+Color: blue
+Memory: 256GB
+
+Name: Samsung Galaxy A52 5G
+Manufacturer: Samsung
+Price: 6000 UAH
+Color: black
+Memory: 128GB
+
+Name: Samsung Galaxy A52
+Manufacturer: Samsung
+Price: 6000 UAH
+Color: black
+Memory: 128GB
+
+Name: Samsung Galaxy A52 5G
+Manufacturer: Samsung
+Price: 6000 UAH
+Color: black
+Memory: 128GB
+
+Name: Motorola Moto G9 Plus
+Manufacturer: Motorola
+Price: 5000 UAH
+Color: blue
+Memory: 128GB
+
+Name: Apple iPhone SE (2nd generation)
+Manufacturer: Apple
+Price: 4000 UAH
+Color: red
+Memory: 64GB
+
+Name: BlackBerry Bold 9900
+Manufacturer: BlackBerry
+Price: 3000 UAH
+Radius: 400m
+Auto answer: not present
+
+Name: LG VX5200
+Manufacturer: LG
+Price: 2000 UAH
+Radius: 250m
+Auto answer: present
+
+Name: Sony Ericsson T610
+Manufacturer: Sony
+Price: 1500 UAH
+Radius: 500m
+Auto answer: not present
+
+Name: Motorola V60
+Manufacturer: Motorola
+Price: 1000 UAH
+Radius: 300m
+Auto answer: present
+
+Name: Ericsson T28s
+Manufacturer: Ericsson
+Price: 800 UAH
+Radius: 100m
+Auto answer: not present
+
+Name: Siemens C35
+Manufacturer: Siemens
+Price: 600 UAH
+Radius: 50m
+Auto answer: not present
+
+Name: Nokia 3210
+Manufacturer: Nokia
+Price: 500 UAH
+Radius: 200m
+Auto answer: not present
+
+Name: Panasonic GD55
+Manufacturer: Panasonic
+Price: 500 UAH
+Radius: 150m
+Auto answer: not present
+
+Name: Nokia 3310
+Manufacturer: Nokia
+Price: 500 UAH
+Radius: 100m
+Auto answer: not present
+
+Name: Nokia 3310
+Manufacturer: Nokia
+Price: 500 UAH
+Radius: 100m
+Auto answer: present
+
+Name: Nokia 1100
+Manufacturer: Nokia
+Price: 300 UAH
+Radius: 100m
+Auto answer: present
+
+Name: Nokia 1100
+Manufacturer: Nokia
+Price: 300 UAH
+Radius: 100m
+Auto answer: not present
