@@ -1,6 +1,9 @@
 #include <iostream>
 #include <fstream>
 #include <vector>
+#include <algorithm>
+#include <utility>
+#include <string>
 
 using namespace std;
 
