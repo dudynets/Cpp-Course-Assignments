@@ -1,0 +1,194 @@
+Total price of all computers: 1858455 UAH
+Total price of all desktops: 1158940 UAH
+Total price of all laptops: 699515 UAH
+
+==========================
+COMPUTERS SORTED BY PRICE:
+==========================
+
+=== LAPTOP COMPUTER ===
+Manufacturer: HP
+Model: Spectre x360 14-ea0061st
+Price: 135000 UAH
+Screen size: 14 inches
+Memory: 16GB
+
+=== LAPTOP COMPUTER ===
+Manufacturer: HP
+Model: Spectre x360 14-ea0061st
+Price: 135000 UAH
+Screen size: 14 inches
+Memory: 16GB
+
+=== LAPTOP COMPUTER ===
+Manufacturer: Asus
+Model: ROG Strix Scar III G531GW
+Price: 120000 UAH
+Screen size: 15 inches
+Memory: 32GB
+
+=== DESKTOP COMPUTER ===
+Manufacturer: Asus
+Model: ROG Strix GA15DH
+Price: 120000 UAH
+Type: gaming
+CPU model: AMD Ryzen 7 3700X
+
+=== LAPTOP COMPUTER ===
+Manufacturer: Asus
+Model: ROG Strix Scar III G531GW
+Price: 120000 UAH
+Screen size: 15 inches
+Memory: 32GB
+
+=== DESKTOP COMPUTER ===
+Manufacturer: Asus
+Model: ROG Strix GA15DH
+Price: 120000 UAH
+Type: gaming
+CPU model: AMD Ryzen 7 3700X
+
+=== DESKTOP COMPUTER ===
+Manufacturer: Lenovo
+Model: Legion T5 28IMB05
+Price: 110000 UAH
+Type: gaming
+CPU model: Intel Core i7-10700K
+
+=== DESKTOP COMPUTER ===
+Manufacturer: Lenovo
+Model: Legion T5 28IMB05
+Price: 110000 UAH
+Type: gaming
+CPU model: Intel Core i7-10700K
+
+=== DESKTOP COMPUTER ===
+Manufacturer: Dell
+Model: XPS 8940
+Price: 100000 UAH
+Type: gaming
+CPU model: Intel Core i7-10700K
+
+=== DESKTOP COMPUTER ===
+Manufacturer: HP
+Model: EliteDesk 800 G5 SFF
+Price: 95000 UAH
+Type: office
+CPU model: Intel Core i7-9700
+
+=== DESKTOP COMPUTER ===
+Manufacturer: HP
+Model: EliteDesk 800 G5 SFF
+Price: 95000 UAH
+Type: office
+CPU model: Intel Core i7-9700
+
+=== LAPTOP COMPUTER ===
+Manufacturer: Acer
+Model: Predator Helios 300 PH315-53-72XD
+Price: 90000 UAH
+Screen size: 15 inches
+Memory: 16GB
+
+=== LAPTOP COMPUTER ===
+Manufacturer: Acer
+Model: Predator Helios 300 PH315-53-72XD
+Price: 90000 UAH
+Screen size: 17 inches
+Memory: 16GB
+
+=== DESKTOP COMPUTER ===
+Manufacturer: Lenovo
+Model: ThinkCentre M920 Tiny
+Price: 80000 UAH
+Type: office
+CPU model: Intel Core i7-8700T
+
+=== DESKTOP COMPUTER ===
+Manufacturer: Lenovo
+Model: ThinkCentre M920 Tiny
+Price: 80000 UAH
+Type: office
+CPU model: Intel Core i7-8700T
+
+=== DESKTOP COMPUTER ===
+Manufacturer: HP
+Model: Pavilion TG01-2170m
+Price: 70000 UAH
+Type: gaming
+CPU model: Intel Core i7-10700F
+
+=== DESKTOP COMPUTER ===
+Manufacturer: HP
+Model: Pavilion TG01-2170m
+Price: 70000 UAH
+Type: gaming
+CPU model: Intel Core i7-10700F
+
+=== DESKTOP COMPUTER ===
+Manufacturer: Dell
+Model: OptiPlex 3070
+Price: 50000 UAH
+Type: office
+CPU model: Intel Core i5-9500
+
+=== DESKTOP COMPUTER ===
+Manufacturer: Dell
+Model: OptiPlex 3070
+Price: 50000 UAH
+Type: office
+CPU model: Intel Core i5-9500
+
+=== LAPTOP COMPUTER ===
+Manufacturer: Dell
+Model: XPS 15
+Price: 9500 UAH
+Screen size: 150000 inches
+Memory: 15GB
+
+=== DESKTOP COMPUTER ===
+Manufacturer: Dell
+Model: XPS
+Price: 8940 UAH
+Type: 100000
+CPU model: gaming
+
+=== LAPTOP COMPUTER ===
+Manufacturer: Dell
+Model: XPS
+Price: 15 UAH
+Screen size: 9500 inches
+Memory: 150000GB
+
+=====================
+DESKTOPS OF "Lenovo":
+=====================
+
+=== DESKTOP COMPUTER ===
+Manufacturer: Lenovo
+Model: Legion T5 28IMB05
+Price: 110000 UAH
+Type: gaming
+CPU model: Intel Core i7-10700K
+
+=== DESKTOP COMPUTER ===
+Manufacturer: Lenovo
+Model: Legion T5 28IMB05
+Price: 110000 UAH
+Type: gaming
+CPU model: Intel Core i7-10700K
+
+=== DESKTOP COMPUTER ===
+Manufacturer: Lenovo
+Model: ThinkCentre M920 Tiny
+Price: 80000 UAH
+Type: office
+CPU model: Intel Core i7-8700T
+
+=== DESKTOP COMPUTER ===
+Manufacturer: Lenovo
+Model: ThinkCentre M920 Tiny
+Price: 80000 UAH
+Type: office
+CPU model: Intel Core i7-8700T
+

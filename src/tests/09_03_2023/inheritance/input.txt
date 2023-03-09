@@ -1,0 +1,22 @@
+desktop Dell OptiPlex_3070 50000 office Intel_Core_i5-9500
+desktop HP Pavilion_TG01-2170m 70000 gaming Intel_Core_i7-10700F
+desktop Lenovo ThinkCentre_M920_Tiny 80000 office Intel_Core_i7-8700T
+laptop Asus ROG_Strix_Scar_III_G531GW 120000 15 32
+laptop Acer Predator_Helios_300_PH315-53-72XD 90000 15 16
+desktop HP EliteDesk_800_G5_SFF 95000 office Intel_Core_i7-9700
+desktop Dell XPS_8940 100000 gaming Intel_Core_i7-10700K
+desktop Lenovo Legion_T5_28IMB05 110000 gaming Intel_Core_i7-10700K
+laptop Dell XPS_15 9500 150000 15 32
+laptop HP Spectre_x360_14-ea0061st 135000 14 16
+desktop Asus ROG_Strix_GA15DH 120000 gaming AMD_Ryzen_7_3700X
+desktop Dell OptiPlex_3070 50000 office Intel_Core_i5-9500
+desktop HP Pavilion_TG01-2170m 70000 gaming Intel_Core_i7-10700F
+desktop Lenovo ThinkCentre_M920_Tiny 80000 office Intel_Core_i7-8700T
+laptop Asus ROG_Strix_Scar_III_G531GW 120000 15 32
+laptop Acer Predator_Helios_300_PH315-53-72XD 90000 17 16
+desktop HP EliteDesk_800_G5_SFF 95000 office Intel_Core_i7-9700
+desktop Dell XPS 8940 100000 gaming Intel_Core_i7-10700K
+desktop Lenovo Legion_T5_28IMB05 110000 gaming Intel_Core_i7-10700K
+laptop Dell XPS 15 9500 150000 15 32
+laptop HP Spectre_x360_14-ea0061st 135000 14 16
+desktop Asus ROG_Strix_GA15DH 120000 gaming AMD_Ryzen_7_3700X
