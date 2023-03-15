@@ -19,13 +19,13 @@ class KeyNotFoundException : public exception {
 // This class is a custom implementation of a table data structure.
 class Table {
  private:
-  // Create a vector of pairs, where each pair contains a string and an int.
-  vector<pair<string, int>> data;
+  // Create a vector of pairs, where each pair contains an int and a string.
+  vector<pair<int, string>> data;
 
  public:
   // This function sets the value of the key in the table to the value passed in.
   // If the key doesn't exist, it is added to the table.
-  void set(const string &key, int value) {
+  void set(const int &key, string value) {
     // Loop through the data vector
     for (auto &i : data) {
       // If we find the key we're looking for
@@ -42,7 +42,7 @@ class Table {
 
   // Delete an element from the table by its key.
   // The code loops through all the elements in the vector, and if it finds the element we're looking for, it erases it.
-  void deleteByKey(const string &key) {
+  void deleteByKey(const int &key) {
     // Loop through all the elements in the vector.
     for (auto i = data.begin(); i != data.end(); i++) {
       // If we find the element we're looking for, erase it and return.
@@ -58,7 +58,7 @@ class Table {
 
   // Return a value associated with the given key.
   // If the key does not exist, return -1.
-  int get(const string &key) {
+  string get(const int &key) {
     // Iterate through the data vector
     for (auto &i : data) {
       // Check if the key is equal to the key of the current item
@@ -81,40 +81,44 @@ int main() {
 
 TEST_CASE("Setting and getting values in a table") {
   Table table;
-  table.set("apple", 3);
-  table.set("banana", 2);
-  table.set("orange", 5);
-  CHECK(table.get("apple") == 3);
-  CHECK(table.get("banana") == 2);
-  CHECK(table.get("orange") == 5);
-  table.set("apple", 4);
-  CHECK(table.get("apple") == 4);
+  table.set(1, "apple");
+  table.set(2, "banana");
+  table.set(3, "orange");
+  CHECK(table.get(1) == "apple");
+  CHECK(table.get(2) == "banana");
+  CHECK(table.get(3) == "orange");
+  table.set(4, "pear");
+  CHECK(table.get(4) == "pear");
 }
 
 TEST_CASE("Setting and getting values in a table with same key") {
   Table table;
-  table.set("apple", 3);
-  table.set("banana", 2);
-  table.set("orange", 5);
-  CHECK(table.get("apple") == 3);
-  CHECK(table.get("banana") == 2);
-  CHECK(table.get("orange") == 5);
-  table.set("apple", 4);
-  CHECK(table.get("apple") == 4);
+  table.set(1, "apple");
+  table.set(2, "banana");
+  table.set(3, "orange");
+  CHECK(table.get(1) == "apple");
+  CHECK(table.get(2) == "banana");
+  CHECK(table.get(3) == "orange");
+  table.set(1, "pear");
+  CHECK(table.get(1) == "pear");
 }
 
 TEST_CASE("Delete existing item") {
   Table table;
-  table.set("apple", 1);
-  table.set("banana", 2);
-  table.deleteByKey("apple");
-  CHECK_THROWS(table.get("apple"));
-  CHECK_EQ(table.get("banana"), 2);
+  table.set(1, "apple");
+  table.set(2, "banana");
+  table.set(3, "orange");
+  CHECK_EQ(table.get(1), "apple");
+  CHECK_EQ(table.get(2), "banana");
+  CHECK_EQ(table.get(3), "orange");
+  table.deleteByKey(2);
+  CHECK_EQ(table.get(1), "apple");
+  CHECK_THROWS(table.get(2));
+  CHECK_EQ(table.get(3), "orange");
 }
 
 TEST_CASE("Delete non-existent item") {
   Table table;
-  table.set("apple", 1);
-  CHECK_THROWS(table.deleteByKey("banana"));
-  CHECK_EQ(table.get("apple"), 1);
+  table.set(1, "apple");
+  CHECK_THROWS(table.deleteByKey(2));
 }
