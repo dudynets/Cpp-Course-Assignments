@@ -1,0 +1,44 @@
+==============================================
+ELECTRONIC CHEAT SHEETS BY CARRIER (Computer):
+==============================================
+
+Electronic cheat sheet:
+      - Subject: Biology
+      - Number: 1
+      - Carrier: Computer
+
+Electronic cheat sheet:
+      - Subject: Psychology
+      - Number: 3
+      - Carrier: Computer
+
+Electronic cheat sheet:
+      - Subject: Math
+      - Number: 2
+      - Carrier: Computer
+
+Electronic cheat sheet:
+      - Subject: Chemistry
+      - Number: 1
+      - Carrier: Computer
+
+Electronic cheat sheet:
+      - Subject: Biology
+      - Number: 3
+      - Carrier: Computer
+
+Electronic cheat sheet:
+      - Subject: History
+      - Number: 2
+      - Carrier: Computer
+
+Electronic cheat sheet:
+      - Subject: Physics
+      - Number: 1
+      - Carrier: Computer
+
+Electronic cheat sheet:
+      - Subject: Math
+      - Number: 3
+      - Carrier: Computer
+

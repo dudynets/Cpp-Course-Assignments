@@ -1,0 +1,537 @@
+Student:
+  Name: Smith John
+  Group: PMI 13
+  Cheat sheets (3):
+    1. Electronic cheat sheet:
+      - Subject: Biology
+      - Number: 1
+      - Carrier: Tablet
+
+    2. Paper cheat sheet:
+      - Subject: Chemistry
+      - Number: 2
+      - Size: 10x15
+      - Place: Pocket
+
+    3. Electronic cheat sheet:
+      - Subject: Physics
+      - Number: 3
+      - Carrier: Laptop
+
+
+Student:
+  Name: Garcia Maria
+  Group: PMI 14
+  Cheat sheets (3):
+    1. Paper cheat sheet:
+      - Subject: History
+      - Number: 1
+      - Size: 15x20
+      - Place: Backpack
+
+    2. Paper cheat sheet:
+      - Subject: English
+      - Number: 2
+      - Size: 10x15
+      - Place: Pocket
+
+    3. Electronic cheat sheet:
+      - Subject: Math
+      - Number: 3
+      - Carrier: Smartphone
+
+
+Student:
+  Name: Jones David
+  Group: PMI 15
+  Cheat sheets (3):
+    1. Electronic cheat sheet:
+      - Subject: Psychology
+      - Number: 1
+      - Carrier: Laptop
+
+    2. Paper cheat sheet:
+      - Subject: Sociology
+      - Number: 2
+      - Size: 20x30
+      - Place: Desk
+
+    3. Electronic cheat sheet:
+      - Subject: Philosophy
+      - Number: 3
+      - Carrier: Tablet
+
+
+Student:
+  Name: Brown Sarah
+  Group: PMI 16
+  Cheat sheets (3):
+    1. Paper cheat sheet:
+      - Subject: Geography
+      - Number: 1
+      - Size: 20x30
+      - Place: Locker
+
+    2. Electronic cheat sheet:
+      - Subject: Physics
+      - Number: 2
+      - Carrier: Tablet
+
+    3. Paper cheat sheet:
+      - Subject: Chemistry
+      - Number: 3
+      - Size: 10x15
+      - Place: Pocket
+
+
+Student:
+  Name: Davis Thomas
+  Group: PMI 17
+  Cheat sheets (3):
+    1. Electronic cheat sheet:
+      - Subject: Math
+      - Number: 1
+      - Carrier: Laptop
+
+    2. Paper cheat sheet:
+      - Subject: Biology
+      - Number: 2
+      - Size: 20x30
+      - Place: Locker
+
+    3. Electronic cheat sheet:
+      - Subject: Psychology
+      - Number: 3
+      - Carrier: Smartphone
+
+
+Student:
+  Name: Taylor Emma
+  Group: PMI 18
+  Cheat sheets (3):
+    1. Paper cheat sheet:
+      - Subject: English
+      - Number: 1
+      - Size: 15x20
+      - Place: Backpack
+
+    2. Electronic cheat sheet:
+      - Subject: History
+      - Number: 2
+      - Carrier: Laptop
+
+    3. Paper cheat sheet:
+      - Subject: Geography
+      - Number: 3
+      - Size: 20x30
+      - Place: Locker
+
+
+Student:
+  Name: Jackson William
+  Group: PMI 19
+  Cheat sheets (3):
+    1. Electronic cheat sheet:
+      - Subject: Physics
+      - Number: 1
+      - Carrier: Tablet
+
+    2. Paper cheat sheet:
+      - Subject: Chemistry
+      - Number: 2
+      - Size: 10x15
+      - Place: Pocket
+
+    3. Electronic cheat sheet:
+      - Subject: Biology
+      - Number: 3
+      - Carrier: Laptop
+
+
+Student:
+  Name: Lee Kim
+  Group: PMI 20
+  Cheat sheets (3):
+    1. Paper cheat sheet:
+      - Subject: Sociology
+      - Number: 1
+      - Size: 20x30
+      - Place: Desk
+
+    2. Electronic cheat sheet:
+      - Subject: Philosophy
+      - Number: 2
+      - Carrier: Tablet
+
+    3. Paper cheat sheet:
+      - Subject: Psychology
+      - Number: 3
+      - Size: 20x30
+      - Place: Locker
+
+
+Student:
+  Name: Wilson Samantha
+  Group: PMI 21
+  Cheat sheets (3):
+    1. Electronic cheat sheet:
+      - Subject: Math
+      - Number: 1
+      - Carrier: Laptop
+
+    2. Paper cheat sheet:
+      - Subject: History
+      - Number: 2
+      - Size: 15x20
+      - Place: Backpack
+
+    3. Electronic cheat sheet:
+      - Subject: English
+      - Number: 3
+      - Carrier: Smartphone
+
+
+Student:
+  Name: Lopez Alex
+  Group: PMI 22
+  Cheat sheets (3):
+    1. Paper cheat sheet:
+      - Subject: Biology
+      - Number: 1
+      - Size: 20x30
+      - Place: Locker
+
+    2. Electronic cheat sheet:
+      - Subject: Physics
+      - Number: 2
+      - Carrier: Tablet
+
+    3. Paper cheat sheet:
+      - Subject: Chemistry
+      - Number: 3
+      - Size: 10x15
+      - Place: Pocket
+
+
+Student:
+  Name: Clark Emma
+  Group: PMI 23
+  Cheat sheets (3):
+    1. Electronic cheat sheet:
+      - Subject: Biology
+      - Number: 1
+      - Carrier: Computer
+
+    2. Paper cheat sheet:
+      - Subject: English
+      - Number: 2
+      - Size: 10x15
+      - Place: Pocket
+
+    3. Electronic cheat sheet:
+      - Subject: Psychology
+      - Number: 3
+      - Carrier: Computer
+
+
+Student:
+  Name: Adams Nathan
+  Group: PMI 24
+  Cheat sheets (3):
+    1. Paper cheat sheet:
+      - Subject: History
+      - Number: 1
+      - Size: 15x20
+      - Place: Backpack
+
+    2. Electronic cheat sheet:
+      - Subject: Math
+      - Number: 2
+      - Carrier: Computer
+
+    3. Paper cheat sheet:
+      - Subject: Sociology
+      - Number: 3
+      - Size: 20x30
+      - Place: Desk
+
+
+Student:
+  Name: Carter Avery
+  Group: PMI 25
+  Cheat sheets (3):
+    1. Electronic cheat sheet:
+      - Subject: Chemistry
+      - Number: 1
+      - Carrier: Computer
+
+    2. Paper cheat sheet:
+      - Subject: Physics
+      - Number: 2
+      - Size: 10x15
+      - Place: Pocket
+
+    3. Electronic cheat sheet:
+      - Subject: Biology
+      - Number: 3
+      - Carrier: Computer
+
+
+Student:
+  Name: Parker Sophie
+  Group: PMI 26
+  Cheat sheets (3):
+    1. Paper cheat sheet:
+      - Subject: English
+      - Number: 1
+      - Size: 20x30
+      - Place: Locker
+
+    2. Electronic cheat sheet:
+      - Subject: History
+      - Number: 2
+      - Carrier: Computer
+
+    3. Paper cheat sheet:
+      - Subject: Geography
+      - Number: 3
+      - Size: 20x30
+      - Place: Locker
+
+
+Student:
+  Name: Turner Jack
+  Group: PMI 27
+  Cheat sheets (3):
+    1. Electronic cheat sheet:
+      - Subject: Physics
+      - Number: 1
+      - Carrier: Computer
+
+    2. Paper cheat sheet:
+      - Subject: Chemistry
+      - Number: 2
+      - Size: 10x15
+      - Place: Pocket
+
+    3. Electronic cheat sheet:
+      - Subject: Math
+      - Number: 3
+      - Carrier: Computer
+
+
+Student:
+  Name: White Ethan
+  Group: PMI 28
+  Cheat sheets (3):
+    1. Paper cheat sheet:
+      - Subject: History
+      - Number: 1
+      - Size: 15x20
+      - Place: Pocket
+
+    2. Electronic cheat sheet:
+      - Subject: Math
+      - Number: 2
+      - Carrier: Smartphone
+
+    3. Paper cheat sheet:
+      - Subject: Sociology
+      - Number: 3
+      - Size: 20x30
+      - Place: Locker
+
+
+Student:
+  Name: Anderson Ava
+  Group: PMI 29
+  Cheat sheets (3):
+    1. Electronic cheat sheet:
+      - Subject: Philosophy
+      - Number: 1
+      - Carrier: Tablet
+
+    2. Paper cheat sheet:
+      - Subject: Psychology
+      - Number: 2
+      - Size: 10x15
+      - Place: Pocket
+
+    3. Electronic cheat sheet:
+      - Subject: Biology
+      - Number: 3
+      - Carrier: Laptop
+
+
+Student:
+  Name: Thompson Nora
+  Group: PMI 30
+  Cheat sheets (3):
+    1. Paper cheat sheet:
+      - Subject: Chemistry
+      - Number: 1
+      - Size: 20x30
+      - Place: Locker
+
+    2. Electronic cheat sheet:
+      - Subject: History
+      - Number: 2
+      - Carrier: Tablet
+
+    3. Paper cheat sheet:
+      - Subject: English
+      - Number: 3
+      - Size: 20x30
+      - Place: Locker
+
+
+Student:
+  Name: Moore Liam
+  Group: PMI 31
+  Cheat sheets (3):
+    1. Electronic cheat sheet:
+      - Subject: Physics
+      - Number: 1
+      - Carrier: Laptop
+
+    2. Paper cheat sheet:
+      - Subject: Sociology
+      - Number: 2
+      - Size: 10x15
+      - Place: Pocket
+
+    3. Electronic cheat sheet:
+      - Subject: Math
+      - Number: 3
+      - Carrier: Smartphone
+
+
+Student:
+  Name: Scott Hannah
+  Group: PMI 32
+  Cheat sheets (3):
+    1. Paper cheat sheet:
+      - Subject: English
+      - Number: 1
+      - Size: 15x20
+      - Place: Backpack
+
+    2. Electronic cheat sheet:
+      - Subject: Psychology
+      - Number: 2
+      - Carrier: Laptop
+
+    3. Paper cheat sheet:
+      - Subject: Geography
+      - Number: 3
+      - Size: 20x30
+      - Place: Locker
+
+
+Student:
+  Name: King Mia
+  Group: PMI 33
+  Cheat sheets (3):
+    1. Electronic cheat sheet:
+      - Subject: Biology
+      - Number: 1
+      - Carrier: Smartphone
+
+    2. Paper cheat sheet:
+      - Subject: Chemistry
+      - Number: 2
+      - Size: 10x15
+      - Place: Pocket
+
+    3. Electronic cheat sheet:
+      - Subject: Philosophy
+      - Number: 3
+      - Carrier: Tablet
+
+
+Student:
+  Name: Green Mason
+  Group: PMI 34
+  Cheat sheets (3):
+    1. Paper cheat sheet:
+      - Subject: Sociology
+      - Number: 1
+      - Size: 20x30
+      - Place: Desk
+
+    2. Electronic cheat sheet:
+      - Subject: Physics
+      - Number: 2
+      - Carrier: Laptop
+
+    3. Paper cheat sheet:
+      - Subject: Biology
+      - Number: 3
+      - Size: 20x30
+      - Place: Locker
+
+
+Student:
+  Name: Baker Lila
+  Group: PMI 35
+  Cheat sheets (3):
+    1. Electronic cheat sheet:
+      - Subject: History
+      - Number: 1
+      - Carrier: Smartphone
+
+    2. Paper cheat sheet:
+      - Subject: English
+      - Number: 2
+      - Size: 10x15
+      - Place: Pocket
+
+    3. Electronic cheat sheet:
+      - Subject: Psychology
+      - Number: 3
+      - Carrier: Laptop
+
+
+Student:
+  Name: Lewis Oliver
+  Group: PMI 36
+  Cheat sheets (3):
+    1. Paper cheat sheet:
+      - Subject: Chemistry
+      - Number: 1
+      - Size: 15x20
+      - Place: Backpack
+
+    2. Electronic cheat sheet:
+      - Subject: Biology
+      - Number: 2
+      - Carrier: Smartphone
+
+    3. Paper cheat sheet:
+      - Subject: Sociology
+      - Number: 3
+      - Size: 20x30
+      - Place: Desk
+
+
+Student:
+  Name: Taylor Nathan
+  Group: PMI 37
+  Cheat sheets (3):
+    1. Electronic cheat sheet:
+      - Subject: Math
+      - Number: 1
+      - Carrier: Tablet
+
+    2. Paper cheat sheet:
+      - Subject: Geography
+      - Number: 2
+      - Size: 10x15
+      - Place: Pocket
+
+    3. Electronic cheat sheet:
+      - Subject: Philosophy
+      - Number: 3
+      - Carrier: Laptop
+
+

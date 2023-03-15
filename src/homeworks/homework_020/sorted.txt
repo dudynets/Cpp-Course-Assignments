@@ -1,0 +1,833 @@
+===============================
+CHEAT SHEETS SORTED BY SUBJECT:
+===============================
+
+Electronic cheat sheet:
+      - Subject: Biology
+      - Number: 1
+      - Carrier: Tablet
+
+Electronic cheat sheet:
+      - Subject: Biology
+      - Number: 3
+      - Carrier: Computer
+
+Electronic cheat sheet:
+      - Subject: Biology
+      - Number: 1
+      - Carrier: Computer
+
+Paper cheat sheet:
+      - Subject: Biology
+      - Number: 1
+      - Size: 20x30
+      - Place: Locker
+
+Electronic cheat sheet:
+      - Subject: Biology
+      - Number: 3
+      - Carrier: Laptop
+
+Electronic cheat sheet:
+      - Subject: Biology
+      - Number: 1
+      - Carrier: Smartphone
+
+Electronic cheat sheet:
+      - Subject: Biology
+      - Number: 3
+      - Carrier: Laptop
+
+Electronic cheat sheet:
+      - Subject: Biology
+      - Number: 2
+      - Carrier: Smartphone
+
+Paper cheat sheet:
+      - Subject: Biology
+      - Number: 3
+      - Size: 20x30
+      - Place: Locker
+
+Paper cheat sheet:
+      - Subject: Biology
+      - Number: 2
+      - Size: 20x30
+      - Place: Locker
+
+Paper cheat sheet:
+      - Subject: Chemistry
+      - Number: 3
+      - Size: 10x15
+      - Place: Pocket
+
+Paper cheat sheet:
+      - Subject: Chemistry
+      - Number: 3
+      - Size: 10x15
+      - Place: Pocket
+
+Paper cheat sheet:
+      - Subject: Chemistry
+      - Number: 2
+      - Size: 10x15
+      - Place: Pocket
+
+Paper cheat sheet:
+      - Subject: Chemistry
+      - Number: 1
+      - Size: 20x30
+      - Place: Locker
+
+Paper cheat sheet:
+      - Subject: Chemistry
+      - Number: 2
+      - Size: 10x15
+      - Place: Pocket
+
+Electronic cheat sheet:
+      - Subject: Chemistry
+      - Number: 1
+      - Carrier: Computer
+
+Paper cheat sheet:
+      - Subject: Chemistry
+      - Number: 2
+      - Size: 10x15
+      - Place: Pocket
+
+Paper cheat sheet:
+      - Subject: Chemistry
+      - Number: 2
+      - Size: 10x15
+      - Place: Pocket
+
+Paper cheat sheet:
+      - Subject: Chemistry
+      - Number: 1
+      - Size: 15x20
+      - Place: Backpack
+
+Paper cheat sheet:
+      - Subject: English
+      - Number: 2
+      - Size: 10x15
+      - Place: Pocket
+
+Paper cheat sheet:
+      - Subject: English
+      - Number: 2
+      - Size: 10x15
+      - Place: Pocket
+
+Electronic cheat sheet:
+      - Subject: English
+      - Number: 3
+      - Carrier: Smartphone
+
+Paper cheat sheet:
+      - Subject: English
+      - Number: 1
+      - Size: 15x20
+      - Place: Backpack
+
+Paper cheat sheet:
+      - Subject: English
+      - Number: 2
+      - Size: 10x15
+      - Place: Pocket
+
+Paper cheat sheet:
+      - Subject: English
+      - Number: 3
+      - Size: 20x30
+      - Place: Locker
+
+Paper cheat sheet:
+      - Subject: English
+      - Number: 1
+      - Size: 15x20
+      - Place: Backpack
+
+Paper cheat sheet:
+      - Subject: English
+      - Number: 1
+      - Size: 20x30
+      - Place: Locker
+
+Paper cheat sheet:
+      - Subject: Geography
+      - Number: 3
+      - Size: 20x30
+      - Place: Locker
+
+Paper cheat sheet:
+      - Subject: Geography
+      - Number: 3
+      - Size: 20x30
+      - Place: Locker
+
+Paper cheat sheet:
+      - Subject: Geography
+      - Number: 2
+      - Size: 10x15
+      - Place: Pocket
+
+Paper cheat sheet:
+      - Subject: Geography
+      - Number: 3
+      - Size: 20x30
+      - Place: Locker
+
+Paper cheat sheet:
+      - Subject: Geography
+      - Number: 1
+      - Size: 20x30
+      - Place: Locker
+
+Electronic cheat sheet:
+      - Subject: History
+      - Number: 2
+      - Carrier: Laptop
+
+Paper cheat sheet:
+      - Subject: History
+      - Number: 2
+      - Size: 15x20
+      - Place: Backpack
+
+Paper cheat sheet:
+      - Subject: History
+      - Number: 1
+      - Size: 15x20
+      - Place: Backpack
+
+Paper cheat sheet:
+      - Subject: History
+      - Number: 1
+      - Size: 15x20
+      - Place: Backpack
+
+Electronic cheat sheet:
+      - Subject: History
+      - Number: 2
+      - Carrier: Tablet
+
+Electronic cheat sheet:
+      - Subject: History
+      - Number: 1
+      - Carrier: Smartphone
+
+Electronic cheat sheet:
+      - Subject: History
+      - Number: 2
+      - Carrier: Computer
+
+Paper cheat sheet:
+      - Subject: History
+      - Number: 1
+      - Size: 15x20
+      - Place: Pocket
+
+Electronic cheat sheet:
+      - Subject: Math
+      - Number: 1
+      - Carrier: Tablet
+
+Electronic cheat sheet:
+      - Subject: Math
+      - Number: 3
+      - Carrier: Smartphone
+
+Electronic cheat sheet:
+      - Subject: Math
+      - Number: 3
+      - Carrier: Smartphone
+
+Electronic cheat sheet:
+      - Subject: Math
+      - Number: 2
+      - Carrier: Computer
+
+Electronic cheat sheet:
+      - Subject: Math
+      - Number: 1
+      - Carrier: Laptop
+
+Electronic cheat sheet:
+      - Subject: Math
+      - Number: 3
+      - Carrier: Computer
+
+Electronic cheat sheet:
+      - Subject: Math
+      - Number: 2
+      - Carrier: Smartphone
+
+Electronic cheat sheet:
+      - Subject: Math
+      - Number: 1
+      - Carrier: Laptop
+
+Electronic cheat sheet:
+      - Subject: Philosophy
+      - Number: 1
+      - Carrier: Tablet
+
+Electronic cheat sheet:
+      - Subject: Philosophy
+      - Number: 3
+      - Carrier: Laptop
+
+Electronic cheat sheet:
+      - Subject: Philosophy
+      - Number: 2
+      - Carrier: Tablet
+
+Electronic cheat sheet:
+      - Subject: Philosophy
+      - Number: 3
+      - Carrier: Tablet
+
+Electronic cheat sheet:
+      - Subject: Philosophy
+      - Number: 3
+      - Carrier: Tablet
+
+Electronic cheat sheet:
+      - Subject: Physics
+      - Number: 1
+      - Carrier: Computer
+
+Electronic cheat sheet:
+      - Subject: Physics
+      - Number: 1
+      - Carrier: Laptop
+
+Electronic cheat sheet:
+      - Subject: Physics
+      - Number: 2
+      - Carrier: Tablet
+
+Electronic cheat sheet:
+      - Subject: Physics
+      - Number: 2
+      - Carrier: Laptop
+
+Electronic cheat sheet:
+      - Subject: Physics
+      - Number: 1
+      - Carrier: Tablet
+
+Electronic cheat sheet:
+      - Subject: Physics
+      - Number: 2
+      - Carrier: Tablet
+
+Electronic cheat sheet:
+      - Subject: Physics
+      - Number: 3
+      - Carrier: Laptop
+
+Paper cheat sheet:
+      - Subject: Physics
+      - Number: 2
+      - Size: 10x15
+      - Place: Pocket
+
+Paper cheat sheet:
+      - Subject: Psychology
+      - Number: 2
+      - Size: 10x15
+      - Place: Pocket
+
+Electronic cheat sheet:
+      - Subject: Psychology
+      - Number: 3
+      - Carrier: Computer
+
+Electronic cheat sheet:
+      - Subject: Psychology
+      - Number: 2
+      - Carrier: Laptop
+
+Paper cheat sheet:
+      - Subject: Psychology
+      - Number: 3
+      - Size: 20x30
+      - Place: Locker
+
+Electronic cheat sheet:
+      - Subject: Psychology
+      - Number: 3
+      - Carrier: Smartphone
+
+Electronic cheat sheet:
+      - Subject: Psychology
+      - Number: 3
+      - Carrier: Laptop
+
+Electronic cheat sheet:
+      - Subject: Psychology
+      - Number: 1
+      - Carrier: Laptop
+
+Paper cheat sheet:
+      - Subject: Sociology
+      - Number: 3
+      - Size: 20x30
+      - Place: Locker
+
+Paper cheat sheet:
+      - Subject: Sociology
+      - Number: 3
+      - Size: 20x30
+      - Place: Desk
+
+Paper cheat sheet:
+      - Subject: Sociology
+      - Number: 2
+      - Size: 10x15
+      - Place: Pocket
+
+Paper cheat sheet:
+      - Subject: Sociology
+      - Number: 1
+      - Size: 20x30
+      - Place: Desk
+
+Paper cheat sheet:
+      - Subject: Sociology
+      - Number: 1
+      - Size: 20x30
+      - Place: Desk
+
+Paper cheat sheet:
+      - Subject: Sociology
+      - Number: 2
+      - Size: 20x30
+      - Place: Desk
+
+Paper cheat sheet:
+      - Subject: Sociology
+      - Number: 3
+      - Size: 20x30
+      - Place: Desk
+
+
+==============================
+CHEAT SHEETS SORTED BY NUMBER:
+==============================
+
+Electronic cheat sheet:
+      - Subject: Biology
+      - Number: 1
+      - Carrier: Tablet
+
+Electronic cheat sheet:
+      - Subject: Math
+      - Number: 1
+      - Carrier: Tablet
+
+Paper cheat sheet:
+      - Subject: Chemistry
+      - Number: 1
+      - Size: 15x20
+      - Place: Backpack
+
+Paper cheat sheet:
+      - Subject: History
+      - Number: 1
+      - Size: 15x20
+      - Place: Backpack
+
+Electronic cheat sheet:
+      - Subject: History
+      - Number: 1
+      - Carrier: Smartphone
+
+Paper cheat sheet:
+      - Subject: Sociology
+      - Number: 1
+      - Size: 20x30
+      - Place: Desk
+
+Electronic cheat sheet:
+      - Subject: Psychology
+      - Number: 1
+      - Carrier: Laptop
+
+Electronic cheat sheet:
+      - Subject: Biology
+      - Number: 1
+      - Carrier: Smartphone
+
+Paper cheat sheet:
+      - Subject: English
+      - Number: 1
+      - Size: 15x20
+      - Place: Backpack
+
+Paper cheat sheet:
+      - Subject: Geography
+      - Number: 1
+      - Size: 20x30
+      - Place: Locker
+
+Electronic cheat sheet:
+      - Subject: Physics
+      - Number: 1
+      - Carrier: Laptop
+
+Paper cheat sheet:
+      - Subject: Chemistry
+      - Number: 1
+      - Size: 20x30
+      - Place: Locker
+
+Electronic cheat sheet:
+      - Subject: Math
+      - Number: 1
+      - Carrier: Laptop
+
+Electronic cheat sheet:
+      - Subject: Philosophy
+      - Number: 1
+      - Carrier: Tablet
+
+Paper cheat sheet:
+      - Subject: History
+      - Number: 1
+      - Size: 15x20
+      - Place: Pocket
+
+Paper cheat sheet:
+      - Subject: English
+      - Number: 1
+      - Size: 15x20
+      - Place: Backpack
+
+Electronic cheat sheet:
+      - Subject: Physics
+      - Number: 1
+      - Carrier: Computer
+
+Paper cheat sheet:
+      - Subject: English
+      - Number: 1
+      - Size: 20x30
+      - Place: Locker
+
+Electronic cheat sheet:
+      - Subject: Physics
+      - Number: 1
+      - Carrier: Tablet
+
+Electronic cheat sheet:
+      - Subject: Chemistry
+      - Number: 1
+      - Carrier: Computer
+
+Paper cheat sheet:
+      - Subject: History
+      - Number: 1
+      - Size: 15x20
+      - Place: Backpack
+
+Paper cheat sheet:
+      - Subject: Sociology
+      - Number: 1
+      - Size: 20x30
+      - Place: Desk
+
+Electronic cheat sheet:
+      - Subject: Biology
+      - Number: 1
+      - Carrier: Computer
+
+Paper cheat sheet:
+      - Subject: Biology
+      - Number: 1
+      - Size: 20x30
+      - Place: Locker
+
+Electronic cheat sheet:
+      - Subject: Math
+      - Number: 1
+      - Carrier: Laptop
+
+Paper cheat sheet:
+      - Subject: History
+      - Number: 2
+      - Size: 15x20
+      - Place: Backpack
+
+Paper cheat sheet:
+      - Subject: Geography
+      - Number: 2
+      - Size: 10x15
+      - Place: Pocket
+
+Paper cheat sheet:
+      - Subject: Chemistry
+      - Number: 2
+      - Size: 10x15
+      - Place: Pocket
+
+Electronic cheat sheet:
+      - Subject: Physics
+      - Number: 2
+      - Carrier: Tablet
+
+Electronic cheat sheet:
+      - Subject: Biology
+      - Number: 2
+      - Carrier: Smartphone
+
+Electronic cheat sheet:
+      - Subject: Philosophy
+      - Number: 2
+      - Carrier: Tablet
+
+Paper cheat sheet:
+      - Subject: English
+      - Number: 2
+      - Size: 10x15
+      - Place: Pocket
+
+Paper cheat sheet:
+      - Subject: English
+      - Number: 2
+      - Size: 10x15
+      - Place: Pocket
+
+Paper cheat sheet:
+      - Subject: English
+      - Number: 2
+      - Size: 10x15
+      - Place: Pocket
+
+Electronic cheat sheet:
+      - Subject: Math
+      - Number: 2
+      - Carrier: Computer
+
+Electronic cheat sheet:
+      - Subject: Physics
+      - Number: 2
+      - Carrier: Laptop
+
+Paper cheat sheet:
+      - Subject: Chemistry
+      - Number: 2
+      - Size: 10x15
+      - Place: Pocket
+
+Paper cheat sheet:
+      - Subject: Physics
+      - Number: 2
+      - Size: 10x15
+      - Place: Pocket
+
+Paper cheat sheet:
+      - Subject: Chemistry
+      - Number: 2
+      - Size: 10x15
+      - Place: Pocket
+
+Paper cheat sheet:
+      - Subject: Sociology
+      - Number: 2
+      - Size: 20x30
+      - Place: Desk
+
+Electronic cheat sheet:
+      - Subject: History
+      - Number: 2
+      - Carrier: Computer
+
+Electronic cheat sheet:
+      - Subject: Psychology
+      - Number: 2
+      - Carrier: Laptop
+
+Electronic cheat sheet:
+      - Subject: History
+      - Number: 2
+      - Carrier: Laptop
+
+Paper cheat sheet:
+      - Subject: Chemistry
+      - Number: 2
+      - Size: 10x15
+      - Place: Pocket
+
+Paper cheat sheet:
+      - Subject: Sociology
+      - Number: 2
+      - Size: 10x15
+      - Place: Pocket
+
+Electronic cheat sheet:
+      - Subject: Physics
+      - Number: 2
+      - Carrier: Tablet
+
+Electronic cheat sheet:
+      - Subject: Math
+      - Number: 2
+      - Carrier: Smartphone
+
+Electronic cheat sheet:
+      - Subject: History
+      - Number: 2
+      - Carrier: Tablet
+
+Paper cheat sheet:
+      - Subject: Biology
+      - Number: 2
+      - Size: 20x30
+      - Place: Locker
+
+Paper cheat sheet:
+      - Subject: Psychology
+      - Number: 2
+      - Size: 10x15
+      - Place: Pocket
+
+Electronic cheat sheet:
+      - Subject: Biology
+      - Number: 3
+      - Carrier: Laptop
+
+Paper cheat sheet:
+      - Subject: Chemistry
+      - Number: 3
+      - Size: 10x15
+      - Place: Pocket
+
+Paper cheat sheet:
+      - Subject: Sociology
+      - Number: 3
+      - Size: 20x30
+      - Place: Locker
+
+Paper cheat sheet:
+      - Subject: English
+      - Number: 3
+      - Size: 20x30
+      - Place: Locker
+
+Electronic cheat sheet:
+      - Subject: Psychology
+      - Number: 3
+      - Carrier: Smartphone
+
+Electronic cheat sheet:
+      - Subject: Math
+      - Number: 3
+      - Carrier: Computer
+
+Electronic cheat sheet:
+      - Subject: Math
+      - Number: 3
+      - Carrier: Smartphone
+
+Electronic cheat sheet:
+      - Subject: Philosophy
+      - Number: 3
+      - Carrier: Tablet
+
+Paper cheat sheet:
+      - Subject: Geography
+      - Number: 3
+      - Size: 20x30
+      - Place: Locker
+
+Paper cheat sheet:
+      - Subject: Geography
+      - Number: 3
+      - Size: 20x30
+      - Place: Locker
+
+Paper cheat sheet:
+      - Subject: Geography
+      - Number: 3
+      - Size: 20x30
+      - Place: Locker
+
+Electronic cheat sheet:
+      - Subject: Biology
+      - Number: 3
+      - Carrier: Computer
+
+Electronic cheat sheet:
+      - Subject: Philosophy
+      - Number: 3
+      - Carrier: Tablet
+
+Electronic cheat sheet:
+      - Subject: Math
+      - Number: 3
+      - Carrier: Smartphone
+
+Paper cheat sheet:
+      - Subject: Sociology
+      - Number: 3
+      - Size: 20x30
+      - Place: Desk
+
+Paper cheat sheet:
+      - Subject: Biology
+      - Number: 3
+      - Size: 20x30
+      - Place: Locker
+
+Electronic cheat sheet:
+      - Subject: Biology
+      - Number: 3
+      - Carrier: Laptop
+
+Electronic cheat sheet:
+      - Subject: Psychology
+      - Number: 3
+      - Carrier: Computer
+
+Electronic cheat sheet:
+      - Subject: Psychology
+      - Number: 3
+      - Carrier: Laptop
+
+Electronic cheat sheet:
+      - Subject: Physics
+      - Number: 3
+      - Carrier: Laptop
+
+Paper cheat sheet:
+      - Subject: Chemistry
+      - Number: 3
+      - Size: 10x15
+      - Place: Pocket
+
+Paper cheat sheet:
+      - Subject: Sociology
+      - Number: 3
+      - Size: 20x30
+      - Place: Desk
+
+Paper cheat sheet:
+      - Subject: Psychology
+      - Number: 3
+      - Size: 20x30
+      - Place: Locker
+
+Electronic cheat sheet:
+      - Subject: English
+      - Number: 3
+      - Carrier: Smartphone
+
+Electronic cheat sheet:
+      - Subject: Philosophy
+      - Number: 3
+      - Carrier: Laptop
+
