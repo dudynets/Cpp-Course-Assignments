@@ -430,10 +430,16 @@ void outputElectronicCheatSheetsByCarrier(const vector<Student *> &students, con
     divider += "=";
   }
 
-  // Write electronic cheat sheets by carrier to file
+  // Write header to file
   outputFile << "======================================" << divider << endl;
   outputFile << "ELECTRONIC CHEAT SHEETS BY CARRIER (" << carrier << "):" << endl;
   outputFile << "======================================" << divider << "\n\n";
+
+  // Write number of electronic cheat sheets by carrier to file
+  outputFile << "Total number: "
+             << electronicCheatSheetsByCarrier.size() << "\n\n";
+
+  // Write electronic cheat sheets by carrier to file
   for (auto &cheatSheet : electronicCheatSheetsByCarrier) {
     // dynamic cast to electronic cheat sheet
     if (const auto electronicCheatSheet = dynamic_cast<ElectronicCheatSheet *>(cheatSheet)) {
