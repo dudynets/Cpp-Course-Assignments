@@ -64,12 +64,29 @@
 | temperature_conversion    | classwork_temperature_conversion    | 12.10.2022 | Calculate arithmetic and geometric means of two numbers. (№1) | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/classworks/12_10_2022/temperature_conversion)    |
 | loops_practice            | classwork_loops_practice            | 05.10.2022 | Calculate number of words in a string.                        | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/classworks/05_10_2022/loops_practice)            |
 
+## Algorithms and Data Structures
+
+| Project carrier         | Executable carrier                | Date       | Description                        | Directory                                                                                             |
+|:------------------------|:----------------------------------|:-----------|:-----------------------------------|:------------------------------------------------------------------------------------------------------|
+| reverse_polish_notation | algorithm_reverse_polish_notation | 28.03.2023 | Reverse Polish notation algorithm. | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/algorithms/reverse_polish_notation) |
+| hash_table              | algorithm_hash_table              | 21.03.2023 | Hash table data structure.         | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/algorithms/hash_table)              |
+| table                   | algorithm_table                   | 07.03.2023 | Table data structure.              | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/algorithms/table)                   |
+| stack                   | algorithm_stack                   | 28.02.2023 | Stack data structure.              | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/algorithms/stack)                   |
+| bucket_sort             | algorithm_bucket_sort             | 24.02.2023 | Bucket sort algorithm.             | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/algorithms/bucket_sort)             |
+| bubble_sort             | algorithm_bubble_sort             | 24.02.2023 | Bubble sort algorithm.             | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/algorithms/bubble_sort)             |
+
 ## Tests
 
 | Project carrier   | Executable carrier     | Date       | Description             | Directory                                                                                             |
 |:------------------|:-----------------------|:-----------|:------------------------|:------------------------------------------------------------------------------------------------------|
 | inheritance       | test_inheritance       | 09.03.2023 | Test inheritance.       | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/tests/09_03_2023/inheritance)       |
 | class_composition | test_class_composition | 23.02.2023 | Test class composition. | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/tests/23_02_2023/class_composition) |
+
+## Projects
+
+| Project carrier | Executable carrier  | Date       | Description          | Directory                                                                               |
+|:----------------|:--------------------|:-----------|:---------------------|:----------------------------------------------------------------------------------------|
+| hello_world     | project_hello_world | 19.02.2023 | Hello world project. | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/projects/hello_world) |
 
 ## License
 

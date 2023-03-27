@@ -2,7 +2,7 @@
 
 #include <vector>
 #include <exception>
-#include <doctest/doctest.h>
+#include "doctest/doctest.h"
 
 using namespace std;
 

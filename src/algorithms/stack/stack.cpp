@@ -1,7 +1,7 @@
 #define DOCTEST_CONFIG_IMPLEMENT
 
 #include <stack>
-#include <doctest/doctest.h>
+#include "doctest/doctest.h"
 
 using namespace std;
 

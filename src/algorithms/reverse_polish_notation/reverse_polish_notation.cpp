@@ -3,7 +3,7 @@
 #include <iostream>
 #include <stack>
 #include <cmath>
-#include <doctest/doctest.h>
+#include "doctest/doctest.h"
 
 using namespace std;
 

@@ -28,6 +28,19 @@ foreach (classwork ${classworks})
     add_executable(${executable_name} ${classwork})
 endforeach ()
 
+# Algorithms
+file(GLOB_RECURSE algorithms "src/algorithms/*")
+foreach (algorithm ${algorithms})
+    get_filename_component(algorithm_ext ${algorithm} EXT)
+    if (NOT ${algorithm_ext} STREQUAL ".cpp")
+        continue()
+    endif ()
+    get_filename_component(algorithm_name ${algorithm} NAME)
+    string(REPLACE ".cpp" "" algorithm_name ${algorithm_name})
+    set(executable_name "algorithm_${algorithm_name}")
+    add_executable(${executable_name} ${algorithm})
+endforeach ()
+
 # Projects
 file(GLOB_RECURSE projects "src/projects/*")
 foreach (project ${projects})
