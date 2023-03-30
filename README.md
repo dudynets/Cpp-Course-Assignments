@@ -47,6 +47,7 @@
 
 | Project carrier           | Executable carrier                  | Date       | Description                                                   | Directory                                                                                                          |
 |:--------------------------|:------------------------------------|:-----------|:--------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------|
+| function_tabulation       | classwork_function_tabulation       | 30.03.2023 | Practise function tabulation.                                 | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/classworks/30_03_2023/function_tabulation)       |
 | class_inheritance         | classwork_class_inheritance         | 02.03.2023 | Practise class inheritance.                                   | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/classworks/02_03_2023/class_inheritance)         |
 | class_composition         | classwork_class_composition         | 16.02.2023 | Practise class composition.                                   | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/classworks/16_02_2023/class_composition)         |
 | classes2                  | classwork_classes                   | 26.11.2022 | Practise classes with file input and output.                  | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/classworks/26_11_2022/classes2)                  |
