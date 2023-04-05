@@ -16,15 +16,15 @@ ostringstream tabulate(double(*f)(double), double a, double b, int n) {
 
   // Print table header
   oss << setw(9) << "x" << setw(16) << "y" << endl;
-  oss << "████████████████████████████\n";
+  oss << "----------------------------\n";
 
   // Print table body
   for (int i = 0; i <= n; i++) {
-    oss << "██ " << setw(6) << a + i * h << " ██ " << setw(12) << f(a + i * h) << " ██" << endl;
+    oss << "|  " << setw(6) << a + i * h << "  | " << setw(12) << f(a + i * h) << "  |" << endl;
   }
 
   // Print table footer
-  oss << "████████████████████████████\n\n";
+  oss << "----------------------------\n\n";
 
   // Return output stream
   return oss;
