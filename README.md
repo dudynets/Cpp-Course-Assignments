@@ -49,6 +49,7 @@
 
 | Project carrier           | Executable carrier                  | Date       | Description                                                   | Directory                                                                                                          |
 |:--------------------------|:------------------------------------|:-----------|:--------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------|
+| handling_exceptions       | classwork_handling_exceptions       | 06.04.2023 | Practise exceptions.                                          | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/classworks/06_04_2023/handling_exceptions)       |
 | function_tabulation       | classwork_function_tabulation       | 30.03.2023 | Practise function tabulation.                                 | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/classworks/30_03_2023/function_tabulation)       |
 | class_inheritance         | classwork_class_inheritance         | 02.03.2023 | Practise class inheritance.                                   | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/classworks/02_03_2023/class_inheritance)         |
 | class_composition         | classwork_class_composition         | 16.02.2023 | Practise class composition.                                   | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/classworks/16_02_2023/class_composition)         |
@@ -73,6 +74,7 @@
 
 | Project carrier         | Executable carrier                | Date       | Description                        | Directory                                                                                             |
 |:------------------------|:----------------------------------|:-----------|:-----------------------------------|:------------------------------------------------------------------------------------------------------|
+| sparse_matrix           | algorithm_sparse_matrix           | 11.04.2023 | Sparse matrix data structure.      | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/algorithms/sparse_matrix)           |
 | reverse_polish_notation | algorithm_reverse_polish_notation | 28.03.2023 | Reverse Polish notation algorithm. | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/algorithms/reverse_polish_notation) |
 | hash_table              | algorithm_hash_table              | 21.03.2023 | Hash table data structure.         | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/algorithms/hash_table)              |
 | table                   | algorithm_table                   | 07.03.2023 | Table data structure.              | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/algorithms/table)                   |
