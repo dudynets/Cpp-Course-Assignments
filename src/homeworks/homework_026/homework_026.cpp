@@ -5,6 +5,16 @@ using namespace std;
 // Function that sorts elements of array from 0 to i
 template<typename T>
 void sort(T *arr, int n, int i) {
+  // Validate array
+  if (arr == nullptr) {
+    throw invalid_argument("Invalid array");
+  }
+
+  // Validate index
+  if (i < 0 || i >= n) {
+    throw invalid_argument("Invalid index");
+  }
+
   // Iterate through array
   for (int j = 0; j < i; j++) {
     // Iterate through array from j to i
@@ -21,6 +31,9 @@ void sort(T *arr, int n, int i) {
 
 // Function that asks for elements of the array, applies sort function and prints sorted array
 void sortIntegers() {
+  // Print header
+  cout << "Sort array of integers by index\n\n";
+
   // Ask for number of elements in array
   int n;
   cout << "Enter number of elements in array:\n";
@@ -58,6 +71,9 @@ void sortIntegers() {
 
 // Function that asks for elements of the array, applies sort function and prints sorted array
 void sortStrings() {
+  // Print header
+  cout << "Sort array of strings by index\n\n";
+
   // Ask for number of elements in array
   int n;
   cout << "Enter number of elements in array:\n";
@@ -71,6 +87,11 @@ void sortStrings() {
   for (int i = 0; i < n; i++) {
     cout << "--> ";
     cin >> arr[i];
+
+    // Validate max length (string)
+    if (arr[i].length() > 20) {
+      throw length_error("Invalid value length");
+    }
   }
   cout << "\n";
 
@@ -95,14 +116,30 @@ void sortStrings() {
 
 // Main function
 int main() {
-  // Test with integers
-  sortIntegers();
+  try {
+    // Test with integers
+    sortIntegers();
+  } catch (invalid_argument &e) {
+    cerr << "\nError: " << e.what();
+  } catch (length_error &e) {
+    cerr << "\nError: " << e.what();
+  } catch (...) {
+    cerr << "\nError: Unknown error";
+  }
 
   // Print divider
   cout << "\n\n================\n\n";
 
-  // Test with strings
-  sortStrings();
+  try {
+    // Test with strings
+    sortStrings();
+  } catch (invalid_argument &e) {
+    cerr << "\nError: " << e.what();
+  } catch (length_error &e) {
+    cerr << "\nError: " << e.what();
+  } catch (...) {
+    cerr << "\nError: Unknown error";
+  }
 
   return 0;
 }
