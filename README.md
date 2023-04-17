@@ -5,7 +5,7 @@
 # Programming 2022
 
 <p>
-<img src="https://img.shields.io/github/actions/workflow/status/dudynets/Programming-2022/.github/workflows/build.yml?style=flat-square" alt="GitHub workflow status">
+<img src="https://img.shields.io/github/actions/workflow/status/dudynets/Programming-2022/.github/workflows/codeql.yml?style=flat-square" alt="GitHub workflow status">
 <img src="https://img.shields.io/github/last-commit/dudynets/Programming-2022?style=flat-square" alt="Last commit">
 <img src="https://img.shields.io/github/commit-activity/m/dudynets/Programming-2022?style=flat-square" alt="Commit activity">
 <img src="https://img.shields.io/github/repo-size/dudynets/Programming-2022?style=flat-square" alt="Repository size">
