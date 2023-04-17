@@ -151,6 +151,29 @@ TEST_CASE("Removing elements from queue") {
   CHECK(queue.isEmpty());
 }
 
+TEST_CASE("Add elements to the queue and remove them, checking each step") {
+  // Create queue
+  Queue<int> queue(3);
+
+  // Add elements to queue
+  queue.enqueue(1);
+  CHECK(queue.peek() == 1);
+  queue.enqueue(2);
+  CHECK(queue.peek() == 1);
+  queue.enqueue(3);
+  CHECK(queue.peek() == 1);
+
+  // Check if elements are in correct order
+  queue.dequeue();
+  CHECK(queue.peek() == 2);
+  queue.dequeue();
+  CHECK(queue.peek() == 3);
+  queue.dequeue();
+
+  // Check if the elements were removed from the queue
+  CHECK_THROWS_AS(queue.peek(), underflow_error);
+}
+
 TEST_CASE("Queue overflow") {
   // Create queue of size 3
   Queue<int> queue(3);

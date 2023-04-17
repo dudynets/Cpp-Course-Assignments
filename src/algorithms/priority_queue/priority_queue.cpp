@@ -118,6 +118,16 @@ class PriorityQueue {
     // Return the last element in the priority queue, which is the element with the highest priority
     return elements[currentSize - 1].value;
   }
+
+  // Getter that returns the size of the queue
+  int size() {
+    return currentSize;
+  }
+
+  // Getter that defines whether the queue is empty
+  bool isEmpty() {
+    return (currentSize == 0);
+  }
 };
 
 // Main function
@@ -227,6 +237,37 @@ TEST_CASE("Add elements to the priority queue in the same priority order and rem
   priorityQueue.dequeue();
   priorityQueue.dequeue();
   priorityQueue.dequeue();
+  priorityQueue.dequeue();
+
+  // Check if the elements were removed from the priority queue
+  CHECK_THROWS_AS(priorityQueue.peek(), underflow_error);
+}
+
+TEST_CASE("Add elements to the priority queue in the random priority order and remove them, checking each step") {
+  // Create a priority queue
+  PriorityQueue<int> priorityQueue(5);
+
+  // Add elements to the priority queue
+  priorityQueue.enqueue(1, 2);
+  CHECK(priorityQueue.peek() == 1);
+  priorityQueue.enqueue(2, 5); // Highest priority
+  CHECK(priorityQueue.peek() == 2);
+  priorityQueue.enqueue(3, 4);
+  CHECK(priorityQueue.peek() == 2);
+  priorityQueue.enqueue(4, 1);
+  CHECK(priorityQueue.peek() == 2);
+  priorityQueue.enqueue(5, 3);
+  CHECK(priorityQueue.peek() == 2);
+
+  // Remove elements from the priority queue
+  priorityQueue.dequeue();
+  CHECK(priorityQueue.peek() == 3);
+  priorityQueue.dequeue();
+  CHECK(priorityQueue.peek() == 5);
+  priorityQueue.dequeue();
+  CHECK(priorityQueue.peek() == 1);
+  priorityQueue.dequeue();
+  CHECK(priorityQueue.peek() == 4);
   priorityQueue.dequeue();
 
   // Check if the elements were removed from the priority queue
