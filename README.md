@@ -75,6 +75,8 @@
 
 | Project carrier         | Executable carrier                | Date       | Description                        | Directory                                                                                             |
 |:------------------------|:----------------------------------|:-----------|:-----------------------------------|:------------------------------------------------------------------------------------------------------|
+| priority_queue          | algorithm_priority_queue          | 18.04.2023 | Priority queue data structure.     | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/algorithms/priority_queue)          |
+| queue                   | algorithm_queue                   | 18.04.2023 | Queue data structure.              | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/algorithms/queue)                   |
 | sparse_matrix           | algorithm_sparse_matrix           | 11.04.2023 | Sparse matrix data structure.      | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/algorithms/sparse_matrix)           |
 | reverse_polish_notation | algorithm_reverse_polish_notation | 28.03.2023 | Reverse Polish notation algorithm. | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/algorithms/reverse_polish_notation) |
 | hash_table              | algorithm_hash_table              | 21.03.2023 | Hash table data structure.         | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/algorithms/hash_table)              |
