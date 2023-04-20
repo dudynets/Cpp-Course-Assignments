@@ -50,6 +50,7 @@
 
 | Project carrier           | Executable carrier                  | Date       | Description                                                   | Directory                                                                                                          |
 |:--------------------------|:------------------------------------|:-----------|:--------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------|
+| list                      | classwork_list                      | 20.04.2023 | Practise exceptions.                                          | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/classworks/20_04_2023/list)                      |
 | handling_exceptions       | classwork_handling_exceptions       | 06.04.2023 | Practise exceptions.                                          | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/classworks/06_04_2023/handling_exceptions)       |
 | function_tabulation       | classwork_function_tabulation       | 30.03.2023 | Practise function tabulation.                                 | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/classworks/30_03_2023/function_tabulation)       |
 | class_inheritance         | classwork_class_inheritance         | 02.03.2023 | Practise class inheritance.                                   | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/classworks/02_03_2023/class_inheritance)         |
