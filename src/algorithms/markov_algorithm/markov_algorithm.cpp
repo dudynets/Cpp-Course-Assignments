@@ -12,10 +12,10 @@ class MarkovAlgorithm {
  private:
   string input;
   map<string, string> rules;
-  int maxIterations;
+  int maxIterations = -1;
  public:
   // Constructor
-  MarkovAlgorithm(string _input, const map<string, string> &_rules, int _maxIterations) :
+  MarkovAlgorithm(string _input, const map<string, string> &_rules, int _maxIterations = -1) :
       input(std::move(_input)), rules(_rules), maxIterations(_maxIterations) {}
 
   // Method that runs the algorithm
@@ -30,7 +30,7 @@ class MarkovAlgorithm {
     int iterationIndex = 0;
 
     // While the output string has changed and the number of iterations is less than the maximum number of iterations
-    while (hasChanged && iterationIndex < maxIterations) {
+    while (hasChanged && (maxIterations == -1 || iterationIndex < maxIterations)) {
       // Set the changed variable to false
       hasChanged = false;
 
@@ -62,7 +62,6 @@ class MarkovAlgorithm {
 
 // Main function
 int main() {
-
   // Run tests
   doctest::Context context;
   int res = context.run();
@@ -71,25 +70,43 @@ int main() {
 
 // Tests
 TEST_CASE("Use one rule") {
-  string input = "a";
+  string input = "aabc";
   map<string, string> rules = {{"a", "b"}};
-  int maxIterations = 99999;
-  MarkovAlgorithm ma(input, rules, maxIterations);
-  CHECK(ma.run() == "b");
+  MarkovAlgorithm markovAlgorithm(input, rules);
+  CHECK(markovAlgorithm.run() == "bbbc");
 }
 
 TEST_CASE("Use non-existent rule") {
-  string input = "a";
+  string input = "aac";
   map<string, string> rules = {{"b", "c"}};
-  int maxIterations = 99999;
-  MarkovAlgorithm ma(input, rules, maxIterations);
-  CHECK(ma.run() == "a");
+  MarkovAlgorithm markovAlgorithm(input, rules);
+  CHECK(markovAlgorithm.run() == "aac");
 }
 
-TEST_CASE("Use recursive rules") {
+TEST_CASE("Use multiple rules") {
+  string input = "aabc";
+  map<string, string> rules = {{"a", "b"}, {"b", "c"}};
+  MarkovAlgorithm markovAlgorithm(input, rules);
+  CHECK(markovAlgorithm.run() == "cccc");
+}
+
+TEST_CASE("Use multiple input chars rule") {
+  string input = "aabc";
+  map<string, string> rules = {{"aa", "b"}};
+  MarkovAlgorithm markovAlgorithm(input, rules);
+  CHECK(markovAlgorithm.run() == "bbc");
+}
+
+TEST_CASE("Use multiple output chars rule") {
+  string input = "aabc";
+  map<string, string> rules = {{"a", "bb"}};
+  MarkovAlgorithm markovAlgorithm(input, rules);
+  CHECK(markovAlgorithm.run() == "bbbbbc");
+}
+
+TEST_CASE("Use infinite recursive rules") {
   string input = "a";
   map<string, string> rules = {{"a", "b"}, {"b", "c"}, {"c", "a"}};
-  int maxIterations = 99999;
-  MarkovAlgorithm ma(input, rules, maxIterations);
-  CHECK(ma.run() == "a");
+  MarkovAlgorithm markovAlgorithm(input, rules, 99999);
+  CHECK(markovAlgorithm.run() == "a");
 }
