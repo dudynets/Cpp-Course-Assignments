@@ -1,0 +1,28 @@
+Monday:
+  Time: 10:00
+  Visitors: 0 visitors
+
+Tuesday:
+  Time: 23:00
+  Visitors: 9 visitors
+
+Wednesday:
+  Time: 15:00
+  Visitors: 19 visitors
+
+Thursday:
+  Time: 09:00
+  Visitors: 32 visitors
+
+Friday:
+  Time: 00:00
+  Visitors: 2 visitors
+
+Saturday:
+  Time: 13:00
+  Visitors: 33 visitors
+
+Sunday:
+  Time: 19:00
+  Visitors: 11 visitors
+

@@ -51,6 +51,7 @@
 
 | Project carrier           | Executable carrier                  | Date       | Description                                                   | Directory                                                                                                          |
 |:--------------------------|:------------------------------------|:-----------|:--------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------|
+| associative_containers    | classwork_associative_containers    | 04.05.2023 | Practise associative containers.                              | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/classworks/04_05_2023/associative_containers)    |
 | list                      | classwork_list                      | 20.04.2023 | Practise exceptions.                                          | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/classworks/20_04_2023/list)                      |
 | handling_exceptions       | classwork_handling_exceptions       | 06.04.2023 | Practise exceptions.                                          | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/classworks/06_04_2023/handling_exceptions)       |
 | function_tabulation       | classwork_function_tabulation       | 30.03.2023 | Practise function tabulation.                                 | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/classworks/30_03_2023/function_tabulation)       |
