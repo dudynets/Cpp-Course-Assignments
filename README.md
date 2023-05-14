@@ -79,6 +79,7 @@
 
 | Project carrier         | Executable carrier                | Date       | Description                        | Directory                                                                                             |
 |:------------------------|:----------------------------------|:-----------|:-----------------------------------|:------------------------------------------------------------------------------------------------------|
+| avl_tree                | algorithm_avl_tree                | 23.05.2023 | AVL tree.                          | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/algorithms/avl_tree)                |
 | dijkstra_algorithm      | algorithm_dijkstra_algorithm      | 16.05.2023 | Dijkstra's algorithm. Graph.       | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/algorithms/dijkstra_algorithm)      |
 | bitset                  | algorithm_bitset                  | 09.05.2023 | Bitset.                            | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/algorithms/bitset)                  |
 | markov_algorithm        | algorithm_markov_algorithm        | 25.04.2023 | Markov algorithm.                  | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/algorithms/markov_algorithm)        |
