@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/github/last-commit/dudynets/Programming-2022?style=flat-square" alt="Last commit">
 <img src="https://img.shields.io/github/commit-activity/m/dudynets/Programming-2022?style=flat-square" alt="Commit activity">
 <img src="https://img.shields.io/github/repo-size/dudynets/Programming-2022?style=flat-square" alt="Repository size">
+<img src="https://img.shields.io/tokei/lines/github/dudynets/Programming-2022?style=flat-square" alt="Lines of code">
 </p>
 
 <p><strong>Programming assignments of Ivan Franko Lviv National University.</strong></p>
