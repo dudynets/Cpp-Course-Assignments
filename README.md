@@ -95,10 +95,12 @@
 
 ## Tests
 
-| Project carrier   | Executable carrier     | Date       | Description             | Directory                                                                                             |
-|:------------------|:-----------------------|:-----------|:------------------------|:------------------------------------------------------------------------------------------------------|
-| inheritance       | test_inheritance       | 09.03.2023 | Test inheritance.       | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/tests/09_03_2023/inheritance)       |
-| class_composition | test_class_composition | 23.02.2023 | Test class composition. | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/tests/23_02_2023/class_composition) |
+| Project carrier   | Executable carrier     | Date       | Description              | Directory                                                                                             |
+|:------------------|:-----------------------|:-----------|:-------------------------|:------------------------------------------------------------------------------------------------------|
+| stl_algorithms_2  | test_stl_algorithms_2  | 18.05.2023 | Test STL algorithms (2). | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/tests/18_05_2023/stl_algorithms_2)  |
+| stl_algorithms_1  | test_stl_algorithms_1  | 18.05.2023 | Test STL algorithms (1). | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/tests/18_05_2023/stl_algorithms_1)  |
+| inheritance       | test_inheritance       | 09.03.2023 | Test inheritance.        | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/tests/09_03_2023/inheritance)       |
+| class_composition | test_class_composition | 23.02.2023 | Test class composition.  | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/tests/23_02_2023/class_composition) |
 
 ## Projects
 
