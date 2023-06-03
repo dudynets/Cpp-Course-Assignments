@@ -1,0 +1,4 @@
+"Walking" action total duration:
+  Sasha: 18000 sec.
+  Peter: 23400 sec.
+  Nick: 18000 sec.

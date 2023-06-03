@@ -1,0 +1,21 @@
+Sasha 1 12 2023 Studying 3600
+Sasha 2 12 2023 Walking 3600 Studying 1800 Eating 7200
+Sasha 3 12 2023 Friends 3600 Walking 1800
+Sasha 4 12 2023 Eating 3600
+Sasha 5 12 2023 Walking 3600 Eating 1800 Friends 7200
+Sasha 6 12 2023 Studying 3600 Walking 1800
+Sasha 7 12 2023 Friends 3600 Studying 1800 Walking 7200
+Peter 1 12 2023 Studying 3600 Eating 1800 Friends 7200
+Peter 2 12 2023 Walking 3600
+Peter 3 12 2023 Friends 3600 Walking 1800
+Peter 4 12 2023 Eating 3600 Friends 1800 Walking 7200
+Peter 5 12 2023 Walking 3600 Eating 1800 Friends 7200
+Peter 6 12 2023 Studying 3600
+Peter 7 12 2023 Friends 3600 Studying 1800 Walking 7200
+Nick 1 12 2023 Studying 3600 Eating 1800
+Nick 2 12 2023 Walking 3600
+Nick 3 12 2023 Friends 3600 Walking 1800 Studying 7200
+Nick 4 12 2023 Eating 3600
+Nick 5 12 2023 Walking 3600 Eating 1800 Friends 7200
+Nick 6 12 2023 Studying 3600 Walking 1800
+Nick 7 12 2023 Friends 3600 Studying 1800 Walking 7200

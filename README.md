@@ -20,6 +20,7 @@
 
 | Project carrier | Executable carrier | Due date   | Description                                                                                                                                   | Directory                                                                                 | 
 |:----------------|:-------------------|:-----------|:----------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------|
+| homework_028    | homework_028       | 17.05.2023 | Sequential containers.                                                                                                                        | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/homeworks/homework_028) |
 | homework_027    | homework_027       | 04.05.2023 | Container Adapters. War card game.                                                                                                            | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/homeworks/homework_027) |
 | homework_026    | homework_026       | 12.04.2023 | Templates and exceptions. Sorting.                                                                                                            | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/homeworks/homework_026) |
 | homework_025    | homework_025       | 05.04.2023 | Function tabulation. Greetings in different languages.                                                                                        | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/homeworks/homework_025) |
@@ -95,12 +96,14 @@
 
 ## Tests
 
-| Project carrier   | Executable carrier     | Date       | Description              | Directory                                                                                             |
-|:------------------|:-----------------------|:-----------|:-------------------------|:------------------------------------------------------------------------------------------------------|
-| stl_algorithms_2  | test_stl_algorithms_2  | 18.05.2023 | Test STL algorithms (2). | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/tests/18_05_2023/stl_algorithms_2)  |
-| stl_algorithms_1  | test_stl_algorithms_1  | 18.05.2023 | Test STL algorithms (1). | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/tests/18_05_2023/stl_algorithms_1)  |
-| inheritance       | test_inheritance       | 09.03.2023 | Test inheritance.        | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/tests/09_03_2023/inheritance)       |
-| class_composition | test_class_composition | 23.02.2023 | Test class composition.  | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/tests/23_02_2023/class_composition) |
+| Project carrier   | Executable carrier     | Date       | Description              | Directory                                                                                              |
+|:------------------|:-----------------------|:-----------|:-------------------------|:-------------------------------------------------------------------------------------------------------|
+| exam_practise_2   | test_exam_practise_2   | 04.06.2023 | Exam practise (2).       | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/tests/exam_practise/exam_practise_2) |
+| exam_practise_1   | test_exam_practise_1   | 04.06.2023 | Exam practise (1).       | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/tests/exam_practise/exam_practise_1) |
+| stl_algorithms_2  | test_stl_algorithms_2  | 18.05.2023 | Test STL algorithms (2). | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/tests/18_05_2023/stl_algorithms_2)   |
+| stl_algorithms_1  | test_stl_algorithms_1  | 18.05.2023 | Test STL algorithms (1). | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/tests/18_05_2023/stl_algorithms_1)   |
+| inheritance       | test_inheritance       | 09.03.2023 | Test inheritance.        | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/tests/09_03_2023/inheritance)        |
+| class_composition | test_class_composition | 23.02.2023 | Test class composition.  | [Link](https://github.com/dudynets/Programming-2022/tree/main/src/tests/23_02_2023/class_composition)  |
 
 ## Projects
 
