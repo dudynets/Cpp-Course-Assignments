@@ -1,16 +1,16 @@
-# Contributing to Programming-2022
+# Contributing to Cpp-Course-Assignments
 
-Thank you for considering contributing to Programming-2022! This document outlines some guidelines to help you contribute to the project.
+Thank you for considering contributing to Cpp-Course-Assignments! This document outlines some guidelines to help you contribute to the project.
 
 ## How to contribute
 
 ### Reporting issues
 
-If you encounter any issues or bugs while using Programming-2022, please report them by opening an issue on the [GitHub repository](https://github.com/dudynets/Programming-2022/issues). Before opening an issue, please search the existing issues to make sure that the issue hasn't already been reported. When creating a new issue, please provide a clear and concise description of the problem, along with any relevant information or error messages.
+If you encounter any issues or bugs while using Cpp-Course-Assignments, please report them by opening an issue on the [GitHub repository](https://github.com/dudynets/Cpp-Course-Assignments/issues). Before opening an issue, please search the existing issues to make sure that the issue hasn't already been reported. When creating a new issue, please provide a clear and concise description of the problem, along with any relevant information or error messages.
 
 ### Making contributions
 
-If you want to contribute to Programming-2022, you can do so by following these steps:
+If you want to contribute to Cpp-Course-Assignments, you can do so by following these steps:
 
 1. Fork the repository to your own GitHub account.
 2. Clone the forked repository to your local machine.

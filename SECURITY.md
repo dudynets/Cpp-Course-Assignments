@@ -24,7 +24,7 @@ We will address security vulnerabilities in a timely manner and provide updates 
 
 ### End-of-Life Policy
 
-We will provide security updates to the latest release of this project for at least [X] years after its initial release. After that time, we may discontinue security updates for that version.
+We will not provide security updates to any release of this project.
 
 ### Code of Conduct
 
