@@ -24,7 +24,7 @@ We will address security vulnerabilities in a timely manner and provide updates 
 
 ### End-of-Life Policy
 
-We will not provide security updates to the any release of this project.
+We will not provide security updates to any release of this project.
 
 ### Code of Conduct
 
